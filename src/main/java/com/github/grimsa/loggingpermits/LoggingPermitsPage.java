@@ -52,7 +52,8 @@ public class LoggingPermitsPage {
             return List.of();
         }
         SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, thisYearOnly, cookies));
-        return Stream.iterate(firstPage, SearchResultsPage::hasNextPage, SearchResultsPage::nextPage)
+        return Stream.iterate(Optional.of(firstPage), Optional::isPresent, (Optional<SearchResultsPage> resultsPage) -> resultsPage.flatMap(SearchResultsPage::nextPage))
+                .map(Optional::get)
                 .map(SearchResultsPage::loggingPermits)
                 .flatMap(List::stream)
                 .collect(Collectors.toList());
@@ -133,7 +134,7 @@ public class LoggingPermitsPage {
         }
     }
 
-    private static class SearchResultsPage {
+    static class SearchResultsPage {
         private final SearchForm searchForm;
         private final Document document;
         private final PagingInfo pagingInfo;
@@ -144,14 +145,14 @@ public class LoggingPermitsPage {
             this.pagingInfo = new PagingInfo(document);
         }
 
-        boolean hasNextPage() {
-            return pagingInfo.nextPageNumber().isPresent();
-        }
-
-        SearchResultsPage nextPage() {
-            Validate.isTrue(hasNextPage(), "Next page must exist");
-            return new SearchResultsPage(
-                    new SearchForm(document, searchForm, pagingInfo.nextPageNumber().get())
+        Optional<SearchResultsPage> nextPage() {
+            if (!pagingInfo.nextPageNumber().isPresent()) {
+                return Optional.empty();
+            }
+            return Optional.of(
+                    new SearchResultsPage(
+                            new SearchForm(document, searchForm, pagingInfo.nextPageNumber().get())
+                    )
             );
         }
 
@@ -163,7 +164,7 @@ public class LoggingPermitsPage {
         }
     }
 
-    private static class PagingInfo {
+    static class PagingInfo {
         private final Element pagingInfoLabel;
 
         PagingInfo(Document searchResults) {
@@ -173,7 +174,7 @@ public class LoggingPermitsPage {
             );
         }
 
-        private int currentPage() {
+        int currentPage() {
             return parseNumber(pagingInfoLabel.textNodes().get(0).text());
         }
 
@@ -188,7 +189,7 @@ public class LoggingPermitsPage {
                     .orElseThrow(() -> new IllegalArgumentException("Could not parse integer from paging info label: " + pagingInfoLabel));
         }
 
-        private Optional<Integer> nextPageNumber() {
+        Optional<Integer> nextPageNumber() {
             return currentPage() >= totalPages()
                     ? Optional.empty()
                     : Optional.of(currentPage() + 1);

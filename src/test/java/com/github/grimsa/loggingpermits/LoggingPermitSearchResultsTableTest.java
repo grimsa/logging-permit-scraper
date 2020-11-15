@@ -26,4 +26,14 @@ class LoggingPermitSearchResultsTableTest {
                 lines.get(0)
         );
     }
+
+    @Test
+    void parse_lastPage() {
+        Document page = new LocalDocumentSource("pages/Utenos-97.html").get();
+        LoggingPermitSearchResultsTable table = new LoggingPermitSearchResultsTable(page);
+
+        List<LoggingPermit> results = table.parse();
+
+        assertEquals(17, results.size());
+    }
 }
