@@ -7,7 +7,6 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.nodes.FormElement;
-import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
@@ -17,8 +16,6 @@ import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import static java.util.function.Predicate.not;
 
 public class LoggingPermitsPage {
     private Map<String, String> cookies = Map.of();
@@ -49,40 +46,41 @@ public class LoggingPermitsPage {
         );
     }
 
-    public List<LoggingPermit> retrieveLoggingPermits(String region) {
-        // TODO: temporary
-        if (!region.equals("Alytaus TP") && !region.equals("Kauno TP")) {
+    public List<LoggingPermit> retrieveLoggingPermits(String region, boolean thisYearOnly) {
+        // TODO: temporary workaround for a bug in the system being scraped
+        if (region.equals("Vilniaus TP")) {
             return List.of();
         }
-        SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, cookies));
+        SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, thisYearOnly, cookies));
         return Stream.iterate(firstPage, SearchResultsPage::hasNextPage, SearchResultsPage::nextPage)
-                // FIXME: temporary
-                .limit(2)
                 .map(SearchResultsPage::loggingPermits)
                 .flatMap(List::stream)
                 .collect(Collectors.toList());
     }
 
     private static class SearchForm {
+        private static final String REGION_SELECT_ID = "DropDownList1";
         private final FormElement form;
         private final String region;
+        private final boolean thisYearOnly;
         private final Integer pageNumber;
         private final Map<String, String> cookies;
 
         private SearchForm(Document document, SearchForm searchFormFromPreviousPage, int nextPageNumber) {
-            this(document, searchFormFromPreviousPage.region, nextPageNumber, searchFormFromPreviousPage.cookies);
+            this(document, searchFormFromPreviousPage.region, searchFormFromPreviousPage.thisYearOnly, nextPageNumber, searchFormFromPreviousPage.cookies);
         }
 
-        SearchForm(Document document, String region, Map<String, String> cookies) {
-            this(document, region, null, cookies);
+        SearchForm(Document document, String region, boolean thisYearOnly, Map<String, String> cookies) {
+            this(document, region, thisYearOnly, null, cookies);
         }
 
-        SearchForm(Document document, String region, Integer pageNumber, Map<String, String> cookies) {
+        SearchForm(Document document, String region, boolean thisYearOnly, Integer pageNumber, Map<String, String> cookies) {
             this.form = (FormElement) Objects.requireNonNull(
                     document.getElementById("form1"),
                     () -> "Search form not found in document " + document.text()
             );
             this.region = region;
+            this.thisYearOnly = thisYearOnly;
             this.pageNumber = pageNumber;
             this.cookies = cookies;
         }
@@ -95,7 +93,8 @@ public class LoggingPermitsPage {
                 }
                 Connection connection = new LoggingConnectionDecorator(form.submit())
                         .cookies(cookies);
-                connection.data("DropDownList1").value(region);
+                connection.data("metai").value(yearRadioButtonId());
+                connection.data(REGION_SELECT_ID).value(region);
                 if (pageNumber != null) {
                     connection.data("__EVENTTARGET").value("GridView2");
                     connection.data("__EVENTARGUMENT").value("Page$" + pageNumber);
@@ -107,6 +106,17 @@ public class LoggingPermitsPage {
         }
 
         private Document validResponse(Document response) {
+            Validate.isTrue(
+                    response.getElementById(yearRadioButtonId()).hasAttr("checked"),
+                    "Expected year radio button to be selected: " + yearRadioButtonId()
+            );
+            Validate.isTrue(
+                    response.getElementById(REGION_SELECT_ID)
+                            .getElementsByAttributeValue("selected", "selected").get(0)
+                            .attr("value")
+                            .equals(region),
+                    "Expected region selection to be: " + region
+            );
             int expectedPageNumber = Optional.ofNullable(pageNumber).orElse(1);
             int currentPage = new PagingInfo(response).currentPage();
             Validate.isTrue(
@@ -114,6 +124,12 @@ public class LoggingPermitsPage {
                     "Expected to be on page " + expectedPageNumber + " but we are on " + currentPage
             );
             return response;
+        }
+
+        private String yearRadioButtonId() {
+            return thisYearOnly
+                    ? "RadioButton1"
+                    : "RadioButton2";
         }
     }
 
@@ -143,20 +159,7 @@ public class LoggingPermitsPage {
             if (pagingInfo.totalPages() == 0) {
                 return List.of();
             }
-            Element table = document.getElementById("GridView2");
-            Objects.requireNonNull(table, () -> "Search results table not found " + document);
-            String x = table.selectFirst(":root > tbody > tr").select(":root > th").stream()
-                    .map(Element::text)
-                    .collect(Collectors.joining(","));
-            // TODO: do something smarter about it
-            // "Rajonas,Regionas,Agentūra,Nuosavybės forma,Urėdija,Girininkija,Kvartalas,Sklypai,Plotas,Kad. vietovė,Kad. blokas,Kad. nr.,Kirtimo rūšis,Galiojimo pradžia,Galiojimo pabaiga"
-            System.out.println("Table header: " + x);
-            return table.select(":root > tbody > tr").stream()
-                    .map(tr -> tr.select(":root > td"))
-                    .filter(not(List::isEmpty))
-                    .filter(tds -> tds.size() > 1)
-                    .map(HtmlLoggingPermitRow::new)
-                    .collect(Collectors.toList());
+            return new LoggingPermitSearchResultsTable(document).parse();
         }
     }
 
@@ -189,21 +192,6 @@ public class LoggingPermitsPage {
             return currentPage() >= totalPages()
                     ? Optional.empty()
                     : Optional.of(currentPage() + 1);
-        }
-    }
-
-    private static class HtmlLoggingPermitRow implements LoggingPermit {
-        private final Elements tds;
-
-        HtmlLoggingPermitRow(Elements tds) {
-            this.tds = tds;
-        }
-
-        @Override
-        public String asTextLine() {
-            return tds.stream()
-                    .map(Element::text)
-                    .collect(Collectors.joining(" | "));
         }
     }
 }

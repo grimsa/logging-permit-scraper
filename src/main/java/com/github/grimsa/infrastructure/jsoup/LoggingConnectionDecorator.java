@@ -15,9 +15,9 @@ public class LoggingConnectionDecorator extends AbstractConnectionDecorator {
 
     @Override
     public Connection.Response execute() throws IOException {
-        log.info("Request: {} {}, data: {}, cookies: {}", request().method(), request().url(), request().data(), request().cookies());
+        log.debug("Request: {} {}, data: {}", request().method(), request().url(), request().data());
         Connection.Response response = super.execute();
-        log.info("Response headers: {}, body: {}", response.headers(), response.body().trim());
+        log.trace("Response headers: {}, body: {}", response.headers(), response.body().trim());
         return response;
     }
 }

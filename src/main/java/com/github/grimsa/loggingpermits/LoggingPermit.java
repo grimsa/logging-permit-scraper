@@ -1,5 +1,9 @@
 package com.github.grimsa.loggingpermits;
 
+import java.util.List;
+
 public interface LoggingPermit {
-    String asTextLine();
+    List<String> columnNames();
+
+    List<String> columnValues();
 }

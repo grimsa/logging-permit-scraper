@@ -20,6 +20,7 @@ dependencies {
     implementation("org.slf4j:slf4j-api:1.7.30")
     runtimeOnly("org.slf4j:slf4j-simple:1.7.30")
     implementation("org.apache.commons:commons-lang3:3.11")
+    implementation("org.apache.commons:commons-csv:1.8")
 
     testImplementation(platform("org.junit:junit-bom:5.7.0"))
     testImplementation("org.junit.jupiter:junit-jupiter")
@@ -27,4 +28,9 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
+    systemProperty("file.encoding", "utf-8")
+}
+
+tasks.withType<JavaCompile> {
+    options.encoding = "UTF-8"
 }
