@@ -83,6 +83,9 @@ class LoggingPermitSearchResultsTable {
             try {
                 return LocalDate.parse(value, DATE_FORMAT).toString();
             } catch (DateTimeParseException e) {
+                if (value.equals("202012/31")) {
+                    return "2020-12-31";
+                }
                 log.warn("Failed to parse date {} on record {}", value, columnValues);
                 return value;
             }

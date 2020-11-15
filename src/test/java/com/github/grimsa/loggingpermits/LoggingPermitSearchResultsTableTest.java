@@ -22,7 +22,7 @@ class LoggingPermitSearchResultsTableTest {
                 .map(columnValues -> String.join(" | ", columnValues))
                 .collect(Collectors.toList());
         assertEquals(
-                "A - 58 | Alytaus | Lazdijų rajono kontroliuojama teritorija | privati | Veisiejų miškų urėdija | Kapčiamiesčio girininkija | 146 | 12a,14b,15a,19 | 1.4 | 5940 | 0001 | 0134 | Plynas kirtimas | 2020/2/4 | 2020/12/31",
+                "A - 58 | Alytaus | Lazdijų rajono kontroliuojama teritorija | privati | Veisiejų miškų urėdija | Kapčiamiesčio girininkija | 146 | 12a,14b,15a,19 | 1.4 | 5940 | 0001 | 0134 | Plynas kirtimas | 2020-02-04 | 2020-12-31",
                 lines.get(0)
         );
     }
@@ -35,5 +35,15 @@ class LoggingPermitSearchResultsTableTest {
         List<LoggingPermit> results = table.parse();
 
         assertEquals(17, results.size());
+    }
+
+    @Test
+    void parse_faultyDateFormat_dateFormatCorrected() {
+        Document page = new LocalDocumentSource("pages/date-issue.html").get();
+        LoggingPermitSearchResultsTable table = new LoggingPermitSearchResultsTable(page);
+
+        List<LoggingPermit> results = table.parse();
+
+        assertEquals("2020-12-31", results.get(5).columnValues().get(14));
     }
 }
