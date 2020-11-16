@@ -47,10 +47,6 @@ public class LoggingPermitsPage {
     }
 
     public List<LoggingPermit> retrieveLoggingPermits(String region, boolean thisYearOnly) {
-        // TODO: temporary workaround for a bug in the system being scraped
-        if (region.equals("Vilniaus TP")) {
-            return List.of();
-        }
         SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, thisYearOnly, cookies));
         return Stream.iterate(Optional.of(firstPage), Optional::isPresent, (Optional<SearchResultsPage> resultsPage) -> resultsPage.flatMap(SearchResultsPage::nextPage))
                 .map(Optional::get)
