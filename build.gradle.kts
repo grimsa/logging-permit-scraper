@@ -28,9 +28,16 @@ dependencies {
 
 tasks.test {
     useJUnitPlatform()
-    systemProperty("file.encoding", "utf-8")
+    systemProperty("file.encoding", "UTF-8")
 }
 
 tasks.withType<JavaCompile> {
     options.encoding = "UTF-8"
+}
+
+task("runScraper", JavaExec::class) {
+    group = "Execution"
+    description = "Run the scraper"
+    main = "com.github.grimsa.loggingpermits.Main"
+    classpath = sourceSets["main"].runtimeClasspath
 }

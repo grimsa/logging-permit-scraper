@@ -8,6 +8,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.time.Instant;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -16,6 +17,7 @@ public class Main {
     private static final Logger log = LoggerFactory.getLogger(Main.class);
 
     public static void main(String... args) throws IOException {
+        System.out.println(Charset.defaultCharset().name());
         boolean thisYearOnly = false;
         LoggingPermitsPage page = new LoggingPermitsPage();
         List<LoggingPermit> allPermits = page.getRegionOptions().stream()
