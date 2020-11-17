@@ -36,14 +36,4 @@ class LoggingPermitSearchResultsTableTest {
 
         assertEquals(17, results.size());
     }
-
-    @Test
-    void parse_faultyDateFormat_dateFormatCorrected() {
-        Document page = new LocalDocumentSource("pages/date-issue.html").get();
-        LoggingPermitSearchResultsTable table = new LoggingPermitSearchResultsTable(page);
-
-        List<LoggingPermit> results = table.parse();
-
-        assertEquals("2020-12-31", results.get(5).columnValues().get(14));
-    }
 }
