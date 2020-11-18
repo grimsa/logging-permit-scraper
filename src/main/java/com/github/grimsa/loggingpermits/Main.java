@@ -46,8 +46,9 @@ public class Main {
     private static void writeReadmeToFile(String fileName, int numberOfPermits) throws IOException {
         try (FileWriter out = new FileWriter(fileName, StandardCharsets.UTF_8, false)) {
             out.write("""
-                    Duomenys atnaujinti: %s
-                    Leidimų skaičius: %s
+                    **Duomenys atnaujinti:** %s
+                                        
+                    **Leidimų skaičius:** %s
                     """.formatted(Instant.now().toString(), numberOfPermits)
             );
         }
