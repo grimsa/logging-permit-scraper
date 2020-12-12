@@ -1,6 +1,10 @@
 name: Build and run scraper
 
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    # Run at 08:37 UTC every Sunday
+    - cron:  '37 8 * * SUN'
 
 jobs:
   build_and_run:
