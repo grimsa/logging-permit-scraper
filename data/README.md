@@ -1,3 +1,3 @@
-**Duomenys atnaujinti:** 2020-12-13T09:04:49.560070593Z
+**Duomenys atnaujinti:** 2020-12-20T10:18:03.159862752Z
 
-**Leidimų skaičius:** 53698
+**Leidimų skaičius:** 54037
