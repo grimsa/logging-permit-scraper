@@ -2,19 +2,29 @@ package com.github.grimsa.loggingpermits.scraper;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.function.Failable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.UncheckedIOException;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.text.Collator;
 import java.time.Instant;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Locale;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Scraper {
     private static final Logger log = LoggerFactory.getLogger(Scraper.class);
+    private static final Collator collator = Collator.getInstance(new Locale("lt", "LT"));
+    private static final String README_FILE_NAME = "data/README.md";
 
     public static void main(String... args) throws IOException {
         boolean thisYearOnly = false;
@@ -28,29 +38,55 @@ public class Scraper {
                 .flatMap(List::stream)
                 .collect(Collectors.toList());
         log.info("Retrieved results: " + allPermits.size());
-        writePermitsToFile("data/leidimai.csv", allPermits);
-        writeReadmeToFile("data/README.md", allPermits.size());
+
+        Map<String, List<LoggingPermit>> permitsByFilename = allPermits.stream()
+                .collect(Collectors.groupingBy(LoggingPermit::year));
+        permitsByFilename.forEach(Scraper::writePermitsToFile);
+        updateReadme(permitsByFilename);
     }
 
-    private static void writePermitsToFile(String fileName, List<LoggingPermit> allPermits) throws IOException {
-        try (FileWriter out = new FileWriter(fileName, StandardCharsets.UTF_8, false)) {
+    private static void writePermitsToFile(String year, List<LoggingPermit> allPermits) {
+        try (FileWriter out = new FileWriter("data/leidimai-" + year + ".csv", StandardCharsets.UTF_8, false)) {
             CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(allPermits.get(0).columnNames().toArray(String[]::new));
             try (CSVPrinter printer = new CSVPrinter(out, csvFormat)) {
-                Failable.stream(allPermits.stream())
+                allPermits.stream()
+                        .sorted(
+                                Comparator.comparing((LoggingPermit loggingPermit) -> loggingPermit.getColumnValue("Regionas"), collator)
+                                        .thenComparing(record -> record.getColumnValue("Rajonas"), collator)
+                                        .thenComparing(record -> record.getColumnValue("Urėdija"), collator)
+                                        .thenComparing(record -> record.getColumnValue("Girininkija"), collator)
+                                        .thenComparing(record -> record.getColumnValue("Leidimo serija ir nr."))
+                                        .thenComparing(record -> record.getColumnValue("Kvartalas"))
+                                        .thenComparing(record -> record.getColumnValue("Sklypai"))
+                                        .thenComparing(record -> record.getColumnValue("Plotas"))
+                        )
                         .map(LoggingPermit::columnValues)
-                        .forEach(printer::printRecord);
+                        .forEach(Failable.asConsumer(printer::printRecord));
             }
+        } catch (IOException e) {
+            throw new UncheckedIOException(e);
         }
     }
 
-    private static void writeReadmeToFile(String fileName, int numberOfPermits) throws IOException {
-        try (FileWriter out = new FileWriter(fileName, StandardCharsets.UTF_8, false)) {
+    private static void updateReadme(Map<String, List<LoggingPermit>> permitsByYear) throws IOException {
+        List<String> linesBeforeUpdate = Files.readAllLines(Paths.get(README_FILE_NAME));
+        Map<String, Integer> countsByYear = linesBeforeUpdate.stream()
+                .filter(line -> line.matches("\\|\\s*\\w+\\s*\\|\\s*\\d+\\s*\\|"))
+                .map(line -> StringUtils.split(line, "|"))
+                .collect(Collectors.toMap(
+                        values -> values[0].strip(),
+                        values -> Integer.parseInt(values[1].strip())
+                ));
+        permitsByYear.forEach((year, permits) -> countsByYear.put(year, permits.size()));
+
+        try (FileWriter out = new FileWriter("data/README.md", StandardCharsets.UTF_8, false)) {
             out.write("""
-                    **Duomenys atnaujinti:** %s
-                                        
-                    **Leidimų skaičius:** %s
-                    """.formatted(Instant.now().toString(), numberOfPermits)
-            );
+                    | Metai | Leidimų skaičius |
+                    |-------| ---------------- |
+                    """);
+            Failable.stream(countsByYear.keySet().stream().sorted())
+                    .forEach(year -> out.write("| " + year + " | " + countsByYear.get(year) + " |\n"));
+            out.write("\n**Duomenys atnaujinti:** " + Instant.now());
         }
     }
 }
