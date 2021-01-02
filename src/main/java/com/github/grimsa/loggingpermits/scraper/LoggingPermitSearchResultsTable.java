@@ -1,5 +1,6 @@
 package com.github.grimsa.loggingpermits.scraper;
 
+import org.apache.commons.lang3.Range;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
@@ -72,6 +73,15 @@ class LoggingPermitSearchResultsTable {
             return IntStream.range(0, COLUMN_NAMES.size())
                     .mapToObj(index -> transformColumnValue(COLUMN_NAMES.get(index), columnValues.get(index)))
                     .collect(Collectors.toList());
+        }
+
+        @Override
+        public String year() {
+            String start = columnValues.get(COLUMN_NAMES.indexOf("Galiojimo pradžia"));
+            int year = LocalDate.parse(start).getYear();
+            return Range.between(2019, 2025).contains(year)
+                    ? Integer.toString(year)
+                    : "kiti";
         }
 
         private String transformColumnValue(String columnName, String value) {

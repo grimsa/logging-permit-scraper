@@ -6,7 +6,7 @@ Dėl to kiekvieną kartą prieš analizuojant šiuos duomenis reikalingas nemaž
 Ilgoje perspektyvoje geriausias sprendimas būtų kirtimų leidimų duomenis publikuoti Lietuvos atvirų duomenų portale (https://data.gov.lt/). Tai yra kirtimų leidimų IS vystančios institucijos planuose.
 
 ### Laikinas sprendimas
-Sukurtas automatinis įrankis periodiškai pereina per visus kirtimų leidimų paieškos rezultatų puslapius ir surenka visus rezultatus į vieną CSV failą.
+Sukurtas automatinis įrankis periodiškai pereina per visus kirtimų leidimų paieškos rezultatų puslapius ir surenka visus rezultatus į CSV failus (skirstoma pagal leidimo galiojimo pradžios metus).
 Tai yra laikina priemonė, padedanti spręsti minėtą problemą iki kirtimų leidimų duomenų rinkinys taps atvirais duomenimis.
 
 ### Duomenys
