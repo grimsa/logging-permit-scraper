@@ -1,3 +1,7 @@
-**Duomenys atnaujinti:** 2020-12-27T09:14:12.156779038Z
-
-**Leidimų skaičius:** 54525
+| Metai | Leidimų skaičius |
+|-------| ---------------- |
+| 2019 | 29865 |
+| 2020 | 23806 |
+| 2021 | 842 |
+| kiti | 12 |
+**Duomenys atnaujinti:** 2021-01-02T17:06:39.754944Z

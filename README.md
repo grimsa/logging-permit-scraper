@@ -10,8 +10,8 @@ Sukurtas automatinis įrankis periodiškai pereina per visus kirtimų leidimų p
 Tai yra laikina priemonė, padedanti spręsti minėtą problemą iki kirtimų leidimų duomenų rinkinys taps atvirais duomenimis.
 
 ### Duomenys
-Naujausi duomenys talpinami [leidimai.csv](https://github.com/grimsa/logging-permit-scraper/blob/main/data/leidimai.csv?raw=true) faile [šiame kataloge](https://github.com/grimsa/logging-permit-scraper/blob/main/data/).
-Kartu talpinama informacija apie duomenų atnaujinimo laiką ir bendrą faile esančių leidimų skaičių.
+Naujausi duomenys talpinami [šiame kataloge](https://github.com/grimsa/logging-permit-scraper/blob/main/data/).
+Kartu talpinama informacija apie duomenų atnaujinimo laiką.
 
 ### Palaikymas
 Jei pastebėjote netikslumų, turite klausimų, arba reikalingas duomenų atnaujinimas, kreipkitės [el. paštu](mailto:gediminas.rimsa@gmail.com).

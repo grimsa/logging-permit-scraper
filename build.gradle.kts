@@ -38,6 +38,6 @@ tasks.withType<JavaCompile> {
 task("runScraper", JavaExec::class) {
     group = "Execution"
     description = "Run the scraper"
-    main = "com.github.grimsa.loggingpermits.Main"
+    main = "com.github.grimsa.loggingpermits.scraper.Scraper"
     classpath = sourceSets["main"].runtimeClasspath
 }

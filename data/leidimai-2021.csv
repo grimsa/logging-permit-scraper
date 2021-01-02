@@ -1,0 +1,843 @@
+Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kvartalas,Sklypai,Plotas,Kad. vietovė,Kad. blokas,Kad. nr.,Kirtimo rūšis,Galiojimo pradžia,Galiojimo pabaiga
+A - 63473,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Dzirmiškių girininkija,358,15,0.4,3353,0007,0144,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63474,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Dzirmiškių girininkija,358,15,0.4,3353,0007,0145,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63367,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,442,32,0.7,3810,0006,0150,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63369,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,243,34a,0.4,3810,0001,0278,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63369,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,243,34c,0.4,3810,0001,0278,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63370,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,252,27a,0.4,3810,0001,0279,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63372,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,197,13b,0.7,3830,0001,0004,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63374,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,204,17a,1.1,3830,0001,0061,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63374,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,204,17d,1.2,3830,0001,0061,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63376,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,241,24d,0.8,3810,0001,0074,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63377,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,204,19d,1.4,3830,0001,0060,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63377,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,204,19g,0.3,3830,0001,0060,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63377,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,212,23b,0.2,3830,0001,0060,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63382,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,158,19b,0.3,3830,0007,0047,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63382,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,158,"21a,21b",1.1,3830,0007,0047,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63382,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,158,9a,2.2,3830,0007,0047,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63383,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,389,25,0.9,3810,0006,0025,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63364,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,18a,1.3,3880,0005,0052,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63365,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,18b,0.5,3880,0005,0052,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63379,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,24,18,1.1,3840,0004,0241,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63379,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,24,"21,23",1.3,3840,0004,0241,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63381,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,18a,1.3,3880,0005,0052,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63384,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,59,16c,1.0,3840,0003,0127,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63384,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,59,19,2.6,3840,0003,0127,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63384,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,59,22,0.6,3840,0003,0127,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63385,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,26b,1.9,3880,0005,0053,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63385,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,26c,1.0,3880,0005,0053,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63386,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,20a,0.5,3880,0005,0057,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63386,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,20b,1.1,3880,0005,0057,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63387,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,6,35a,0.5,3880,0004,0323,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63368,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,268,19d,1.1,3838,0002,0014,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63368,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,268,"34b,51",0.4,3838,0002,0014,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63371,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,247,14c,1.2,3838,0001,0001,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63371,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,247,29,0.5,3838,0001,0001,Atvejinis kirtimas,2021-01-04,2021-12-31
+A - 63373,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,268,11,0.5,3838,0002,0018,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63375,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,239,"32a,32b",1.3,3838,0001,0044,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63375,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,239,33,0.5,3838,0001,0044,Atvejinių kirtimų (paskutinis atvejis),2021-01-04,2021-12-31
+A - 63378,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,789,43a,0.7,5925,0010,0112,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63378,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,789,"46a,49a",0.6,5925,0010,0112,Plynas kirtimas,2021-01-04,2021-12-31
+A - 63450,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,252,"13a,14c",1.1,5940,0002,0117,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63450,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,252,13b,0.4,5940,0002,0117,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63449,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Krosnos girininkija,280,"6a,7",1.9,5943,0007,0132,Plynas kirtimas,2021-01-01,2021-12-31
+A - 633451,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Stalų girininkija,35,"7,25",1.0,5940,0003,0052,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 633451,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Stalų girininkija,35,8,0.9,5940,0003,0052,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63141,Alytaus,Šalčininkų rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Šalčininkėlių girininkija,25,10b,2.6,8540,0007,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63141,Alytaus,Šalčininkų rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Šalčininkėlių girininkija,25,2,2.8,8540,0007,0059,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 63137,Alytaus,Šalčininkų rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Žygmantiškių girininkija,711,3,1.2,8545,0004,0052,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63140,Alytaus,Šalčininkų rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Žygmantiškių girininkija,708,16a,0.7,8530,0003,0096,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63140,Alytaus,Šalčininkų rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Žygmantiškių girininkija,721,"5a,5b",0.9,8530,0003,0096,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63311,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,732,12a,1.4,3823,0003,0165,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63326,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,95,15,0.8,3870,0005,0038,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63327,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,98,14b,0.7,3870,0005,0006,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63330,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,130,39c,0.2,3870,0005,0163,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63325,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,195,11b,0.6,3870,0005,0039,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63325,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,90,2b,1.2,3870,0005,0039,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63329,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,82,20,2.9,3870,0001,0028,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63341,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,206,26b,0.4,3830,0004,0024,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63344,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,152,15,0.6,3870,0004,0076,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63331,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Valkininkų girininkija,399,16,0.3,3873,0012,0053,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63328,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Versekos girininkija,27,3c,1.0,3833,0009,0286,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63314,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Dainavos girininkija,384,5b,0.9,3883,0002,0037,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63324,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Dainavos girininkija,276,9b,1.1,3820,0004,0037,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63339,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Dainavos girininkija,151,3d,1.4,3858,0001,0037,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63310,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,22,4,0.9,3845,0002,0016,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63333,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,1120,"31a,31b",1.7,3853,0008,0018,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63340,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Kaniavos girininkija,709,"24b,35",0.8,3858,0004,0250,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63340,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Kaniavos girininkija,709,"34,39",0.9,3858,0004,0250,Plynas sanitarinis kirtimas (PN),2021-01-01,2021-12-31
+A - 63291,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,505,28,0.8,3828,0005,0045,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63291,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,505,32,0.3,3828,0005,0045,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63291,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,505,41b,0.2,3828,0005,0045,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63291,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,505,7c,2.1,3828,0005,0045,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63301,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,578,12d,0.7,3828,0001,0229,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63301,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,578,16,0.9,3828,0001,0229,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63301,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,578,16,1.6,3828,0001,0229,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63302,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,564,55,1.8,3828,0001,0230,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63302,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,564,55,3.0,3828,0001,0230,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63302,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,564,74,1.7,3828,0001,0230,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63302,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,564,74,4.0,3828,0001,0230,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63302,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,564,91,2.2,3828,0001,0230,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63304,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,96,20c,2.6,3855,0008,0126,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63312,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,582,5a,0.8,3828,0001,0416,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63312,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,582,5b,3.0,3828,0001,0416,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63319,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,569,16,0.4,3828,0005,0222,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63319,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,569,21,0.4,3828,0005,0222,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63319,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,569,34,0.5,3828,0005,0222,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63319,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,569,44a,1.7,3828,0005,0222,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63332,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,115,45,2.9,3825,0006,0004,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63336,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,274,1c,4.5,3828,0005,0004,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63336,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,274,3,4.4,3828,0005,0004,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63336,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,274,4c,0.8,3828,0005,0004,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63336,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,274,4f,1.0,3828,0005,0004,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63336,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,274,4g,0.9,3828,0005,0004,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63342,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,215,35a,2.4,3825,0003,0007,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63342,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,215,35b,1.2,3825,0003,0007,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63342,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,215,39,0.5,3825,0003,0007,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63342,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,215,41,1.5,3825,0003,0007,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63342,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,215,48,0.4,3825,0003,0007,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63343,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,215,22,0.7,3825,0003,0025,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63308,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,178,11b,1.0,3833,0012,0055,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63308,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,179,2,0.9,3833,0012,0055,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63308,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,179,2,1.2,3833,0012,0055,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63313,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,195,3b,0.3,3833,0012,0019,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63317,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,105,28c,0.1,3833,0012,0087,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63317,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,106,20a,0.3,3833,0012,0087,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63320,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,485,10,0.1,3833,0006,0114,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63320,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,486,7,0.4,3833,0006,0114,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63299,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,717,17,1.2,3820,0002,0021,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63299,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,717,18a,2.7,3820,0002,0021,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 63299,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,717,18b,0.8,3820,0002,0021,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63299,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,742,7b,0.8,3820,0002,0021,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63307,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,564,50b,0.2,3828,0001,0122,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63307,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,564,"73c,77a",1.8,3828,0001,0122,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63315,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,19,20b,0.5,3828,0002,0369,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63315,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,29,20d,0.9,3828,0002,0369,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63315,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,29,7c,0.2,3828,0002,0369,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63316,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,843,2c,0.7,3820,0001,0017,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63321,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,718,"3f,3n,3b",3.9,3820,0002,0020,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63321,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,718,3k,0.2,3820,0002,0020,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63321,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,743,"5a,9",1.8,3820,0002,0020,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63322,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,46,4,2.0,3828,0002,0115,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63323,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,864,3,0.1,3820,0006,0012,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63323,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,864,7,0.5,3820,0006,0012,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63335,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,808,1,0.1,3820,0001,0101,Kraštovaizdžio formavimo kirtimas (PN),2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,24,3a,1.2,3828,0003,0130,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,24,3a,1.2,3828,0003,0130,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,24,3a,1.4,3828,0003,0130,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,24,"5a,5b,3a",1.1,3828,0003,0130,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,24,5b,0.3,3828,0003,0130,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,34,2,0.1,3828,0003,0130,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,34,2,0.2,3828,0003,0130,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63337,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,34,2,0.4,3828,0003,0130,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63338,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,22,14a,4.9,3828,0003,0131,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63338,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,22,14b,0.4,3828,0003,0131,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63338,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,22,"1a,1b",1.1,3828,0003,0131,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63338,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,22,3,0.7,3828,0003,0131,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63318,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Rudnios girininkija,499,24,0.4,3855,0002,0060,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63290,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Zervynų girininkija,369,3,1.2,3820,0008,0011,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63290,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Zervynų girininkija,369,7,1.0,3820,0008,0011,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,42,2,2.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,48,23,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,48,25,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,48,26,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,49,12,0.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,49,12,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,49,5,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,50,"2,3,5,18,19",6.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,50,"4,14,15",1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,55,11,2.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,55,12,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,55,21,0.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,55,24,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,64,27,2.5,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19132,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Girelės girininkija,69,17,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,107,28,0.5,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,107,33,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,120,2,1.5,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,154,12,3.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,264,17,1.1,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,265,"10,13",0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,265,3,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,265,4,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,265,9,0.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,41,12,0.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,48,3,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,48,7,2.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,52,14,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,52,24,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,53,1,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,53,16,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19131,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Pageležių girininkija,64,19,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 63622,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,65,23,0.9,4620,0007,0226,Plynas kirtimas,2021-01-31,2021-12-31
+A - 63622,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,66,3b,2.1,4620,0007,0226,Plynas kirtimas,2021-01-31,2021-12-31
+A - 63631,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,111,17,0.7,4635,0002,0025,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 63631,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,124,10,0.4,4635,0002,0025,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63631,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,124,15,0.2,4635,0002,0025,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,110,13,2.2,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,113,6,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,124,3,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,129,19,0.8,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,131,22,0.4,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,132,1,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,132,22,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,134,4,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,136,10,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,137,"1,4,7,8",2.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,137,2,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,137,4,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,139,"3,5",1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,139,7,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,2,4,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,33,22,2.8,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,49,6,1.6,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,77,10,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,77,9,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19133,Kauno,Jonavos rajono kontroliuojama teritorija,valstybinė,Jonavos miškų urėdija,Upninkų girininkija,78,1,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63621,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Upninkų girininkija,716,17,0.6,4633,0005,0048,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 59341,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Būdos girininkija,187,5,0.7,4932,0001,0138,Plynas kirtimas,2021-01-01,2021-12-31
+A - 59340,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Paparčių girininkija,532,32a,1.1,4903,0003,0043,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 59337,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Žiežmarių girininkija,76,11b,0.2,4955,0008,0165,Plynas kirtimas,2021-01-01,2021-12-31
+A - 59336,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Šešuolių girininkija,30,"4a,6a,9a",1.0,8124,0005,0077,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,10,61,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,11,19,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,12,12,1.6,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,18,23,1.0,0,0,0,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,41,18,2.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,44,36,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,44,37,2.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,44,48,0.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,44,57,3.2,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,49,6,0.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,51,13,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,51,4,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,51,5,3.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,51,"7,8,15",1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19067,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Kuro girininkija,7,7,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,157,1,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,157,7,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,16,2,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,21,22,0.8,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,22,21,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,22,25,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,23,2,2.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,25,12,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,25,16,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,520,102,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,520,60,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,520,66,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,520,72,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,53,2,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,59,15,2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19070,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,59,"36,43",2.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63755,Kauno,Kauno rajono kontroliuojama teritorija,privati,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,140,57d,0.2,5273,0006,0149,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63756,Kauno,Kauno rajono kontroliuojama teritorija,privati,Dubravos eksperimentinė mokomoji miškų urėdija,Pajiesio girininkija,140,59a,0.5,5273,0006,0151,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,104,"17,18",2.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,106,17,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,106,4,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,139,"16,19",0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,139,17,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,139,8,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,139,"9,13",1.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,79,36,0.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,80,1,1.2,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,91,11,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,91,12,0.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,91,"4,10",1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,91,"5,11",1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19065,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Šilėnų girininkija,91,6,0.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,112,20,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,112,21,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,112,4,1.4,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,114,13,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,114,14,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,114,15,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,114,16,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,130,19,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,70,20,1.5,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,70,23,4.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,97,18,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,98,4,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19076,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Dubravos eksperimentinė mokomoji miškų urėdija,Vaišvydavos girininkija,98,7,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,31,32,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,31,33,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,38,5,2.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,42,4,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,46,"20,35",0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,49,"14,15,18",2.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,50,"1,17",3.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,54,5,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,58,21,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,58,24,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,58,3,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19079,Kauno,Kauno rajono kontroliuojama teritorija,valstybinė,Kauno miškų urėdija,Karmėlavos girininkija,58,7,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63758,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Raudondvario girininkija,138,"17a,17b,17c",1.1,5270,0006,0173,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63759,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Raudondvario girininkija,120,17,0.6,5270,0001,0292,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63760,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Raudondvario girininkija,136,19,1.0,5270,0006,0074,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63762,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Vytėnų girininkija,134,15,0.8,5240,0009,0365,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63763,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Vytėnų girininkija,134,"26,27,37",1.9,5240,0009,0365,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63754,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kazlų Rūdos miškų urėdija,Šališkių girininkija,123,3a,0.4,5227,0001,0133,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63757,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kazlų Rūdos miškų urėdija,Šališkių girininkija,123,3b,0.4,5227,0001,0123,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63761,Kauno,Kauno rajono kontroliuojama teritorija,privati,Kazlų Rūdos miškų urėdija,Šališkių girininkija,123,7b,0.7,5227,0001,0124,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,49,16,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,49,28,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,49,29,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,49,31,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,50,16,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,62,12,0.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,62,18,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,62,22,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,62,24,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,62,27,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,62,"3,4,5,8",2.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,87,1,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,89,18,0.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,89,22,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,89,24,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,89,27,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,89,30,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,90,1,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,90,23,4.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,90,37,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,90,38,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 19078,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,90,42,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63519,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Ąžuoloto girininkija,50,"13a,13b,14a,15",1.9,5303,0002,0056,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63519,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Ąžuoloto girininkija,50,2a,0.4,5303,0002,0056,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63519,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Ąžuoloto girininkija,50,4a,1.1,5303,0002,0056,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63522,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Ąžuoloto girininkija,67,11a,3.9,5303,0003,0121,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 63522,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Ąžuoloto girininkija,67,5,0.7,5303,0003,0121,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63518,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Kėdainių girininkija,115,17a,0.8,5373,0004,0097,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63518,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Kėdainių girininkija,115,25b,0.5,5373,0004,0097,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63527,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Kėdainių girininkija,159,13,1.0,5373,0004,0042,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63528,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Kėdainių girininkija,270,"22a,24,27a,28a",2.8,5305,0008,0463,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63528,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Kėdainių girininkija,270,23a,0.2,5305,0008,0463,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63529,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Lančiūnavos girininkija,499,14,1.2,5340,0004,0170,Plynas sanitarinis kirtimas (PN),2021-01-01,2021-12-31
+A - 63565,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Siesikų girininkija,2,"325a,328b",0.3,8135,0003,0007,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63565,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Siesikų girininkija,3,"3a,4,5b,6a,6b",1.8,8135,0003,0007,Plynas kirtimas,2021-01-01,2021-12-31
+A - 63564,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Želvos girininkija,611,"43b,43c,44,45",2.0,8108,0006,0087,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 63564,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Želvos girininkija,611,52c,0.1,8108,0006,0087,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 59733,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Mikoliškių girininkija,906,"16,17",3.0,5543,0005,0024,Plynas kirtimas,2021-01-01,2021-12-31
+A - 59811,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Platelių girininkija,2408,14a,0.7,6820,0004,0140,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 59904,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Plungės girininkija,559,21a,0.9,6824,0003,0169,Plynas kirtimas,2021-01-01,2021-12-31
+A - 59777,Klaipėdos,Skuodo rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Skuodo girininkija,348,31a,0.5,7518,0004,0032,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,1,5,2.2,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,1,8,1.5,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,89,34,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,89,36,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,91,21,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,91,28,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,91,"4,5,13",1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,92,"11,14,24,25",2.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,92,16,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,96,"3,5",1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 14838,Klaipėdos,Šilalės rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,96,"37,38",3.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64561,Marijampolės,Jurbarko rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Tauragės girininkija,806,"44,46",3.0,7735,0005,0084,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64561,Marijampolės,Jurbarko rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Tauragės girininkija,806,48,0.4,7735,0005,0084,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 22618,Marijampolės,Prienų rajono kontroliuojama teritorija,valstybinė,Prienų miškų urėdija,Išlaužo girininkija,42,"32,33",1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22618,Marijampolės,Prienų rajono kontroliuojama teritorija,valstybinė,Prienų miškų urėdija,Išlaužo girininkija,42,"36,37",1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22618,Marijampolės,Prienų rajono kontroliuojama teritorija,valstybinė,Prienų miškų urėdija,Išlaužo girininkija,51,38,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22618,Marijampolės,Prienų rajono kontroliuojama teritorija,valstybinė,Prienų miškų urėdija,Išlaužo girininkija,61,"3,7,12,24,26",5.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22618,Marijampolės,Prienų rajono kontroliuojama teritorija,valstybinė,Prienų miškų urėdija,Išlaužo girininkija,61,58,0.4,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 57947,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,377,28,1.1,8494,0006,0054,Plynas kirtimas,2021-01-01,2021-12-31
+A - 57949,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,465,"18,26",1.6,8420,0001,0117,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64651,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,464,31a,0.1,8420,0001,0129,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64655,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,1,16a,0.4,8482,0002,0606,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64655,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,3,18a,0.3,8482,0002,0606,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64655,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,3,"19a,19b",1.7,8482,0002,0606,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64658,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,464,31a,2.4,8420,0001,0130,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64658,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Baltkojų girininkija,464,32,0.2,8420,0001,0130,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64664,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Kidulių girininkija,25,29,1.4,8484,0003,0264,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64664,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Kidulių girininkija,25,"30,33,33a",2.1,8484,0003,0264,Plynas kirtimas,2021-01-01,2021-12-31
+A - 57946,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,52,16a,1.1,8450,0001,0006,Plynas kirtimas,2021-01-01,2021-12-31
+A - 57946,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,52,18a,0.3,8450,0001,0006,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64657,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,404,"15a,15b",0.8,8468,0001,0232,Plynas sanitarinis kirtimas (TN),2021-01-01,2021-12-31
+A - 64660,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,41,"11,8",0.9,8401,0001,0003,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64663,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,48,16,1.0,8401,0001,0026,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64666,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,394,11,0.3,8464,0007,0144,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64666,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,394,12a,0.5,8464,0007,0144,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64666,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,394,7a,0.3,8464,0007,0144,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64652,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Lekėčių girininkija,357,49b,0.5,8455,0004,0142,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64665,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Lekėčių girininkija,115,8,1.9,8466,0001,0017,Plynas kirtimas,2021-01-01,2021-12-31
+A - 57948,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Plokščių girininkija,334,31c,1.1,8474,0003,0047,Plynas kirtimas,2021-01-01,2021-12-31
+A - 57948,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Plokščių girininkija,334,"31d,32a,33b",0.9,8474,0003,0047,Plynas kirtimas,2021-01-01,2021-12-31
+A - 57948,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Plokščių girininkija,334,34,1.0,8474,0003,0047,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64661,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Sutkų girininkija,351,3a,0.5,8462,0002,0292,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 64661,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Sutkų girininkija,351,4d,0.2,8462,0002,0292,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 64654,Marijampolės,Šakių rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Šakių girininkija,124,32,0.5,8418,0005,0339,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,3,12,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,3,6,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,6,26,1.7,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,6,28,2.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,50,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,52,0.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,61,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,63,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,70,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,75,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,67,77,2.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,77,43,1.7,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,78,35,3.0,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,80,6,1.0,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,80,7,1.3,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22656,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,81,33,1.7,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,101,24,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,101,32,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,148,34,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,148,35,2.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,151,20,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,151,21,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,151,22,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,73,1,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,73,2,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,73,26,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,73,31,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,73,32,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,73,33,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,74,51,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,74,56,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,74,57,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,78,36,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,78,40,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,80,12,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,80,27a,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,80,28,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22657,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Batakių girininkija,82,23,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,37,15,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,37,8,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,17,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,2,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,26,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,28,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,3,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,31,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,39,8,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,41,2,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,41,4,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,41,44,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,42,12,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,42,13,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,42,38,2.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,42,50,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,45,57,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,45,58,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,47,16,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17969,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,51,1,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,46,3,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,51,3,2.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,51,4,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,52,45,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,65,62,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,68,18,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,69,19,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,69,31,2.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,70,20,3.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,14,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,21,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,22,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,24,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,25,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,4,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17970,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,81,5,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22651,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,437,11,0.4,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22651,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,58,50,0.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22651,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,58,51,1.3,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22651,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,65,48,1.5,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22651,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Obelyno girininkija,66,56,0.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,13,45,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,13,52,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,13,71,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,16,24,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,16,30,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,16,4,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,16,5,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,16,60,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,6,17,1.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,6,19,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,6,20,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,6,21,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,6,33,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17967,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,6,38,3.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,17,18,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,17,37,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,17,7,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,18,52,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,21,8,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,23,41,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,24,39,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,24,40,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 17968,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pajūrio girininkija,25,32,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,1,11,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,18,11,2.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,18,23,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,18,24,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,18,25,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,18,78,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,18,81,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,26,2,3.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,47,11,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,5,41,2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,5,44,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,5,52,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,5,53,2.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,5,55,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,13,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,15,2.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,19,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,20,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,25,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,27,2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,29,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22654,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,48,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,14,49,1.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,15,51,2.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,17,21,0.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,17,24,0.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,19,8,0.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,20,3,0.8,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,20,7,1.4,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,39,17,2.4,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22655,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Pužiškės girininkija,7,35,1.0,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,18,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,20,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,24,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,31,3.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,36,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,45,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,12,8,2.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,13,46,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,13,47,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,14,38,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,14,5,6.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,16,44,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,20,19,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,20,19,2.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,20,23,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,21,11,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,21,12,3.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,23,50,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,24,20,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,24,22,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,7,17,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22652,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,7,18,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,1,11,1.8,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,26,8,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,26,9,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,27,21,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,27,22,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,27,23,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,27,33,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,27,34,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,27,9,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,29,18,2.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,8,39,0.7,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,8,41,0.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 22653,Marijampolės,Tauragės rajono kontroliuojama teritorija,valstybinė,Tauragės miškų urėdija,Ringių girininkija,8,44,3.7,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,363,2,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,365,13,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,365,21,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,63,12,2.5,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,63,13,1.4,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,63,6,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,66,1,1.0,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,66,3,1.3,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,66,3,2.6,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,66,5,1.1,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,68,1,1.2,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 18412,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Biržų girininkija,68,11,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65572,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Būginių girininkija,321,46,0.6,3668,0008,0002,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 65573,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Būginių girininkija,317,"6,27",2.1,3668,0008,0016,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65575,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Būginių girininkija,465,77a,0.4,3650,0005,0090,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65576,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Būginių girininkija,497,85a,0.8,3622,0009,0031,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65571,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Latvelių girininkija,418,78a,0.1,3638,0004,0256,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65571,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Latvelių girininkija,418,"84,87",2.0,3638,0004,0256,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,11,3,3.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,141,10,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,142,15,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,20,11,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,20,12,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,21,13,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,237,16,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,237,7,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,4,10,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,4,7,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,4,8,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,44,19,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,44,28,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,5,6,3.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18410,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Pasvalio girininkija,53,17,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65574,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Pasvalio girininkija,54,10b,0.6,6785,0005,0167,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,111,10,2.2,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,117,1,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,128,7,4.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,129,14,2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,129,16,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,129,21,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,144,7,1.0,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,146,1,4.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,150,1,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,150,2,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,155,21,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,162,16,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,88,12,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18413,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,88,15,2.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18414,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,117,19,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18414,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų r.p. (BRZ),Tamošiūnų girininkija,117,8,2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65563,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,60,17b,0.3,3665,0008,0010,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 65563,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,60,"2,4,5b,11a,3a,9a,9b",3.9,3665,0008,0010,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65564,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,60,"15,17a",0.8,3665,0008,0010,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65568,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,591,18,0.2,3675,0003,0066,Plynas sanitarinis kirtimas (TN),2021-01-01,2021-12-31
+A - 65568,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,591,18a,0.3,3675,0003,0066,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65568,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,591,18d,0.2,3675,0003,0066,Plynas sanitarinis kirtimas (PN),2021-01-01,2021-12-31
+A - 65569,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,589,62b,1.6,3618,0007,0028,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65570,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų r.p. (BRZ),Vabalninko girininkija,560,27a,2.5,3609,0003,0158,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65614,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,37,"19,21",0.3,6687,0004,0097,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65614,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,39,"3,4",1.6,6687,0004,0097,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65628,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,901,84,0.3,6624,0003,0105,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65631,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,897,6a,0.3,6624,0005,0571,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65632,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,940,"10a,11",1.1,6642,0001,0074,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65632,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,940,4a,0.6,6642,0001,0074,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65633,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,941,"7a,9a",2.0,6642,0001,0074,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65609,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,75,2,3.4,6611,0007,0062,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65610,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,73,11,0.5,6611,0007,0010,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65610,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,74,"6,7,12,13",3.0,6611,0007,0010,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65626,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,74,"1,9a",1.6,6611,0007,0010,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 65626,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,78,4b,0.2,6611,0007,0010,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 65639,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,74,10,0.7,6611,0007,0010,Plynas sanitarinis kirtimas (PN),2021-01-01,2021-12-31
+A - 65639,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,77,8a,0.4,6611,0007,0010,Plynas sanitarinis kirtimas (PN),2021-01-01,2021-12-31
+A - 65639,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,78,1,0.5,6611,0007,0010,Plynas sanitarinis kirtimas (PN),2021-01-01,2021-12-31
+A - 65613,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,145,6a,0.4,6652,0002,0049,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65619,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,130,"30,31",0.8,6652,0002,0014,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65620,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,142,"13,13c,13e",0.5,6652,0002,0014,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65624,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,130,"26,27",0.3,6652,0002,0014,Plynas sanitarinis kirtimas (TN),2021-01-01,2021-12-31
+A - 65624,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,142,"5,7,7a,8,12,12a,16,16b,16c",1.9,6652,0002,0014,Plynas sanitarinis kirtimas (TN),2021-01-01,2021-12-31
+A - 65634,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,21,"10a,10b",2.4,6643,0001,0062,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65634,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,21,10c,0.3,6643,0001,0062,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 65640,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,56,19,0.8,6605,0003,0192,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65645,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,748,2a,3.0,6643,0002,0011,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65617,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,170,16a,0.2,6619,0002,0077,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65617,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,170,16b,0.2,6619,0002,0077,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65623,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,640,"43a,43b",2.8,6603,0001,0051,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 65637,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,45,14,1.0,6631,0006,0043,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65616,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Paežerio girininkija,208,34,0.6,6627,0001,0056,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65615,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,85,"19,19a",0.6,6632,0002,0025,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65621,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,102,3c,0.4,6632,0002,0022,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65643,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,100,17c,0.4,6632,0002,0027,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65627,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvėlės girininkija,191,"22,25a,25b",2.8,6658,0001,0022,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65608,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,717,42,1.7,6665,0006,0019,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65629,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,686,"31a,31d",1.2,6617,0006,0192,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65629,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,686,31c,0.6,6617,0006,0192,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65630,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,686,22a,0.0,6617,0006,0192,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 65630,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,686,22a,0.5,6617,0006,0192,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 65630,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,686,31b,0.6,6617,0006,0192,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65636,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Raguvos girininkija,688,12,0.9,6627,0003,0052,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65625,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Taruškų girininkija,66,16a,0.2,6688,0003,0022,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65625,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Taruškų girininkija,66,"16b,17a",1.8,6688,0003,0022,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,20,15,2.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,20,26,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,28,5,3.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,30,1,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,30,7,2.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,41,3,1.1,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,49,23,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,54,"19,20",4.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,6,1,1.1,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,6,2,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,60,17,1.0,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,60,21,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,76,11,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,76,12,0.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,76,2,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,76,"3,7",3.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18411,Panevėžio,Panevėžio teritorinis poskyris,valstybinė,Biržų r.p. (BRZ),Latvelių girininkija,84,13,4.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18217,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Gedžiūnų girininkija,12,13,1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18217,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Gedžiūnų girininkija,5,5,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18217,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Gedžiūnų girininkija,9,"1,10,20",3.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,100,"8,14",2.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,136,12,3.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,136,23a,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,152,10,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,152,22,4.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,152,26,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,95,11,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18219,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Klovainių girininkija,96,10,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61830,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Linkuvos girininkija,470,2a,0.8,6520,0005,0266,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18220,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Pakruojo girininkija,103,13,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18220,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Pakruojo girininkija,103,14,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18220,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Pakruojo girininkija,31,1,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18220,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Pakruojo girininkija,31,2,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18216,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Rozalimo girininkija,108,8,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18216,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Rozalimo girininkija,108,9,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61832,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Rozalimo girininkija,815,"1,3a",3.0,6528,0002,0241,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18218,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Sukmedžio girininkija,4,15,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18218,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Sukmedžio girininkija,4,"19,21",2.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18218,Panevėžio,Pasvalio rajono kontroliuojama teritorija,valstybinė,Pakruojo miškų urėdija,Sukmedžio girininkija,9,13,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61831,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,10,5a,0.2,6528,0002,0242,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61831,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,11,"1a,22a,22b",2.7,6528,0002,0242,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61833,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,11,2,0.5,6528,0002,0245,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61833,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,11,5a,0.3,6528,0002,0245,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61833,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,11,7a,0.6,6528,0002,0245,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61833,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,9,"10,11",1.1,6528,0002,0245,Plynas kirtimas,2021-01-01,2021-12-31
+A - 61834,Panevėžio,Pasvalio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,11,6a,0.9,6528,0002,0245,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,13,"10,12",0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,13,11,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,13,9,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,24,1,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,24,2,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,24,3,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,39,5,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,41,"20,17,23",2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18441,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Aukštelkų girininkija,43,19,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65307,Panevėžio,Radviliškio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Aukštelkų girininkija,37,"12b,13c",0.9,7105,0010,0014,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65308,Panevėžio,Radviliškio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Baisogalos girininkija,71,8,0.7,7130,0006,0018,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65309,Panevėžio,Radviliškio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Baisogalos girininkija,71,"10,11",1.4,7130,0006,0018,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18445,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Gudžiūnų girininkija,41,8,1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18445,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Gudžiūnų girininkija,41,9,1.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65306,Panevėžio,Radviliškio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Gudžiūnų girininkija,904,16,0.7,7142,0006,0071,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,34,22,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,34,"25,24,30,31",2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,34,26,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,35,5,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,35,"6,4",1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,45,12,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,45,13,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18442,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Legečių girininkija,45,7,2.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18443,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Liepynės girininkija,39,12,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18443,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Liepynės girininkija,39,14,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18443,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Liepynės girininkija,39,"5,11",1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65310,Panevėžio,Radviliškio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Liepynės girininkija,237,"71,73",1.8,7164,0001,0007,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65310,Panevėžio,Radviliškio rajono kontroliuojama teritorija,privati,Radviliškio miškų urėdija,Liepynės girininkija,237,73,1.8,7164,0001,0007,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18444,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Radviliškio girininkija,15,14,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18444,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Radviliškio girininkija,15,"9,13",1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 18444,Panevėžio,Radviliškio rajono kontroliuojama teritorija,valstybinė,Radviliškio miškų urėdija,Radviliškio girininkija,8,17,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65417,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Juodupės girininkija,261,"38,26,37",1.7,7363,0005,0144,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65411,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,631,"16,17a",1.1,7390,0009,0050,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65415,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,308,4a,0.4,7307,0002,0162,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65415,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,308,5a,1.9,7307,0002,0162,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65412,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Rokiškio girininkija,413,25a,1.4,7315,0004,0010,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65414,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Rokiškio girininkija,50,10a,0.9,7385,0001,0013,Plynas kirtimas,2021-01-01,2021-12-31
+A - 65414,Panevėžio,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Rokiškio girininkija,50,12a,0.9,7385,0001,0013,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20241,Šiaulių,Akmenės rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Skaistgirio girininkija,80,3,3.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20241,Šiaulių,Akmenės rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Skaistgirio girininkija,80,"8,10",2.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20241,Šiaulių,Akmenės rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Skaistgirio girininkija,88,3,2.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20241,Šiaulių,Akmenės rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Skaistgirio girininkija,88,4,2.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20241,Šiaulių,Akmenės rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Skaistgirio girininkija,88,9,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60292,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Joniškio miškų urėdija,Skaistgirio girininkija,614,20b,0.7,4784,0006,0280,Plynas kirtimas,2021-01-02,2021-12-31
+A - 60291,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Joniškio miškų urėdija,Žagarės girininkija,60,12,2.5,4787,0004,0001,Atvejinis kirtimas,2021-01-02,2021-12-31
+A - 60297,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kruopių girininkija,78,16b,0.6,3220,0002,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60297,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kruopių girininkija,78,18a,1.4,3220,0002,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60298,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kruopių girininkija,78,17a,0.5,3220,0002,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60298,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kruopių girininkija,78,17b,0.7,3220,0002,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60298,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kruopių girininkija,78,18a,0.5,3220,0002,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60298,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kruopių girininkija,78,18b,0.1,3220,0002,0059,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60170,Šiaulių,Akmenės rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Papilės girininkija,2,12a,1.7,3245,0005,0026,Atrankinis kirtimas,2021-01-02,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,129,"31,35",1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,130,1,0.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,130,"17,23,15",2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,130,"20,18",1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,131,20,1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,133,12,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,133,14,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20244,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,133,15,0.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,"12,26,35,36",2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,"16,17,39",2.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,"22,32",3.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,27,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,"3,13",1.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,46,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,48,58,1.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,49,34,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,75,"23,24",3.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,75,26,1.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,75,39,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20245,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Beržėnų girininkija,75,48,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20242,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Joniškio girininkija,31,"4,17",2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20242,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Joniškio girininkija,33,14,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20242,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Joniškio girininkija,33,16,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20242,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Joniškio girininkija,71,"2,4",0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20242,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Joniškio girininkija,71,3,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,179,11,3.5,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,179,16,2.1,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,179,5,1.4,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,28,21,0.9,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,29,10,7.5,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,70,"19,21",1.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,705,16,0.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,705,25,0.8,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,706,"15,42",3.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,706,17,0.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 2046,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Mikaičių girininkija,706,18,0.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20243,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,77,2,0.3,0,0,0,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 20243,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,77,24,1.9,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20243,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,77,"5,19,20",4.2,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20247,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,47,43,1.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2021-01-01,2021-12-31
+A - 20247,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,88,27,1.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 20247,Šiaulių,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,92,15,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 56997,Šiaulių,Šiaulių rajono kontroliuojama teritorija,privati,Kuršėnų miškų urėdija,Gulbinų girininkija,109,"23,24a,26",1.4,9110,0007,0112,Plynas kirtimas,2021-01-01,2021-12-31
+A - 56997,Šiaulių,Šiaulių rajono kontroliuojama teritorija,privati,Kuršėnų miškų urėdija,Gulbinų girininkija,109,24b,0.4,9110,0007,0112,Plynas kirtimas,2021-01-01,2021-12-31
+A - 56998,Šiaulių,Šiaulių rajono kontroliuojama teritorija,privati,Kuršėnų miškų urėdija,Gulbinų girininkija,109,21b,0.5,9110,0007,0112,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60194,Šiaulių,Telšių rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Žarėnų girininkija,1496,3,3.0,7890,0007,0049,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64115,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mickūnų girininkija,1397,"15b,16a",0.0,3436,0003,0466,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64115,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mickūnų girininkija,1397,2a,1.0,3436,0003,0466,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64119,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mickūnų girininkija,754,308,0.6,3444,0002,0038,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64119,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mickūnų girininkija,754,322,0.5,3444,0002,0038,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64122,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,1092,"4a,4c,6d,7b,9,15s",2.9,3410,0001,0066,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 64122,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,1092,"4d,10",0.2,3410,0001,0066,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64133,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,464,13-15,1.6,3462,0001,0049,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64124,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,855,1,0.2,3426,0003,0123,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64124,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,855,32a,0.1,3426,0003,0123,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64134,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1311,"11a,11b,13a",4.1,3434,0002,0153,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 64134,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1311,"12a,17a",3.0,3434,0002,0153,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64135,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1311,9,0.8,3434,0002,0152,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64136,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1178,16a,0.4,3412,0002,0016,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 64136,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1178,16c,0.3,3412,0002,0016,Atrankinis kirtimas,2021-01-01,2021-12-31
+A - 64136,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1178,"17,16b",1.6,3412,0002,0016,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64118,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1098,365a,0.9,3448,0002,0160,Plynas kirtimas,2021-01-02,2021-12-31
+A - 64126,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1100,21b,0.7,3448,0002,0033,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64127,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1073,"43a,44a,45",1.9,3480,0001,0038,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64127,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1073,"46,47a,48",1.1,3480,0001,0038,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64017,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Dūkšto girininkija,109,2b,0.5,4587,0001,0049,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64017,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Dūkšto girininkija,109,9a,2.5,4587,0001,0049,Plynas kirtimas,2021-01-01,2021-12-31
+A - 64032,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Vaišniūnų girininkija,784,24a,0.9,4557,0002,0053,Atvejinis kirtimas,2021-01-01,2021-12-31
+A - 60995,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Utenos girininkija,548,"39a,39b",0.7,8247,0005,0199,Plynas kirtimas,2021-01-01,2021-12-31
+A - 60984,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Vyžuonų girininkija,6,8a,1.1,8243,0002,0067,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62313,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Čiobiškio girininkija,773,15a,2.6,8910,0001,0166,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62312,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,734,1,2.7,8922,0003,0034,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62315,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,10b,1.6,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62315,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,26a,0.3,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62316,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,10a,1.1,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62316,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,9a,1.1,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62317,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,10a,0.6,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62317,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,10b,0.1,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62317,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,27,9a,0.3,8975,0003,0109,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62314,Vilniaus,Širvintų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Žaliosios girininkija,920,44,1.4,8907,0004,0104,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62430,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,80,42,1.6,8607,0003,0279,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62431,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,80,42,0.5,8607,0003,0293,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62432,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,80,42,0.5,8607,0003,0294,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62433,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,80,42,0.4,8607,0003,0295,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62387,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,143,"2,3",0.5,8640,0001,0698,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62387,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,143,"2,4",1.3,8640,0001,0698,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66003,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Paparčių girininkija,150,2,0.4,7942,0003,0348,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66004,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Paparčių girininkija,61,5,0.6,7942,0001,0090,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66006,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Antakalnio girininkija,598,63b,0.5,7904,0001,0389,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66006,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Antakalnio girininkija,598,64e,0.1,7904,0001,0389,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66006,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Antakalnio girininkija,598,"74,75",1.5,7904,0001,0389,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15877,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,108,14,1.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15877,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,108,17,2.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15877,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,108,20,0.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15877,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,46,"9,17,10",3.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15877,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,51,"15,20",2.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15877,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,65,"11,7,12",2.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15880,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,52,13,0.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15880,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,53,"18,19",1.7,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15880,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Jagelonių girininkija,55,13,0.4,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66008,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Paluknio girininkija,772,8,3.0,7954,0009,0190,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15879,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Ropėjų girininkija,110,3,3.6,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15879,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Ropėjų girininkija,85,4,3.3,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62359,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Ropėjų girininkija,37,12,0.2,7954,0003,0081,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62360,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Ropėjų girininkija,169,"3,4",1.4,7954,0009,0189,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62358,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Rūdiškių girininkija,19,"11A,11B",2.7,7938,0003,0016,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15878,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Trakų girininkija,83,11,3.1,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15878,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Trakų girininkija,83,19,1.0,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 15878,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Trakų girininkija,92,4,6.5,0,0,0,Plynas kirtimas,2021-01-01,2021-12-31
+A - 66009,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Žeronių girininkija,741,20,0.5,7938,0007,0476,Plynas kirtimas,2021-01-01,2021-12-31
+A - 62420,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Kalvelių girininkija,671,14,0.9,4140,0500,0038,Plynas kirtimas,2021-01-01,2021-12-31
