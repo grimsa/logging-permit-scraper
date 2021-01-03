@@ -5,4 +5,4 @@
 | 2021 | 2027 |
 | kiti | 12 |
 
-**Duomenys atnaujinti:** 2021-01-02T17:11:50.209486900Z
+**Duomenys atnaujinti:** 2021-01-03T09:09:05.261781470Z
