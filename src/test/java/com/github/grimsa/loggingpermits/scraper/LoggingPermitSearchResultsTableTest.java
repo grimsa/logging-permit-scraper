@@ -20,9 +20,26 @@ class LoggingPermitSearchResultsTableTest {
         List<String> lines = results.stream()
                 .map(LoggingPermit::columnValues)
                 .map(columnValues -> String.join(" | ", columnValues))
-                .collect(Collectors.toList());
+                .toList();
         assertEquals(
                 "A - 58 | Alytaus | Lazdijų rajono kontroliuojama teritorija | privati | Veisiejų miškų urėdija | Kapčiamiesčio girininkija | 146 | 12a,14b,15a,19 | 1.4 | 5940 | 0001 | 0134 | Plynas kirtimas | 2020-02-04 | 2020-12-31",
+                lines.get(0)
+        );
+    }
+
+    @Test
+    void parse_alytaus2_expectedEntries() {
+        Document page = new LocalDocumentSource("pages/Alytaus-02.html").get();
+
+        List<LoggingPermit> results = new LoggingPermitSearchResultsTable(page).parse();
+
+        assertEquals(50, results.size());
+        List<String> lines = results.stream()
+                .map(LoggingPermit::columnValues)
+                .map(columnValues -> String.join(" | ", columnValues))
+                .toList();
+        assertEquals(
+                "221 - 87 | Alytaus | Varėnos rajono kontroliuojama teritorija | valstybinė | Varėnos miškų urėdija | Rudnios girininkija | 706 | 4e | 1.6 | 0 | 0 | 0 | Plynas kirtimas | 2021-06-22 | 2021-12-31",
                 lines.get(0)
         );
     }

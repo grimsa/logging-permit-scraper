@@ -85,15 +85,18 @@ class LoggingPermitSearchResultsTable {
         }
 
         private String transformColumnValue(String columnName, String value) {
-            if (!Set.of("Galiojimo pradžia", "Galiojimo pabaiga").contains(columnName)) {
-                return value;
+            if (columnName.equals("Plotas")) {
+                return value.replace(",", ".");
             }
-            try {
-                return LocalDate.parse(value).toString();
-            } catch (DateTimeParseException e) {
-                log.warn("Failed to parse date {} on record {}", value, columnValues);
-                return value;
+            if (Set.of("Galiojimo pradžia", "Galiojimo pabaiga").contains(columnName)) {
+                try {
+                    return LocalDate.parse(value).toString();
+                } catch (DateTimeParseException e) {
+                    log.warn("Failed to parse date {} on record {}", value, columnValues);
+                    return value;
+                }
             }
+            return value;
         }
     }
 }
