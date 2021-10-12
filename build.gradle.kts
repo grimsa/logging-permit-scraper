@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    implementation("org.jsoup:jsoup:1.13.1")
+    implementation("org.jsoup:jsoup:1.14.3")
     implementation("org.slf4j:slf4j-api:1.7.32")
     runtimeOnly("org.slf4j:slf4j-simple:1.7.32")
     implementation("org.apache.commons:commons-lang3:3.12.0")

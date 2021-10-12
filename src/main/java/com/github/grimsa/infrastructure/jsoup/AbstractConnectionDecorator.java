@@ -7,16 +7,23 @@ import org.jsoup.parser.Parser;
 import javax.net.ssl.SSLSocketFactory;
 import java.io.IOException;
 import java.io.InputStream;
+import java.net.CookieStore;
 import java.net.Proxy;
 import java.net.URL;
 import java.util.Collection;
 import java.util.Map;
 
 public abstract class AbstractConnectionDecorator implements Connection {
-    private final Connection delegate;
+    private Connection delegate;
 
     public AbstractConnectionDecorator(Connection delegate) {
         this.delegate = delegate;
+    }
+
+    @Override
+    public Connection newRequest() {
+        delegate = delegate.newRequest();
+        return this;
     }
 
     @Override
@@ -166,6 +173,17 @@ public abstract class AbstractConnectionDecorator implements Connection {
     public Connection cookies(Map<String, String> cookies) {
         delegate.cookies(cookies);
         return this;
+    }
+
+    @Override
+    public Connection cookieStore(CookieStore cookieStore) {
+        delegate.cookieStore(cookieStore);
+        return this;
+    }
+
+    @Override
+    public CookieStore cookieStore() {
+        return delegate.cookieStore();
     }
 
     @Override
