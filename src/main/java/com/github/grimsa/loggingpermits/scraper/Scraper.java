@@ -47,7 +47,7 @@ public class Scraper {
 
     private static void writePermitsToFile(String year, List<LoggingPermit> allPermits) {
         try (FileWriter out = new FileWriter("data/leidimai-" + year + ".csv", StandardCharsets.UTF_8, false)) {
-            CSVFormat csvFormat = CSVFormat.DEFAULT.withHeader(allPermits.get(0).columnNames().toArray(String[]::new));
+            CSVFormat csvFormat = CSVFormat.DEFAULT.builder().setHeader(allPermits.get(0).columnNames().toArray(String[]::new)).build();
             try (CSVPrinter printer = new CSVPrinter(out, csvFormat)) {
                 allPermits.stream()
                         .sorted(

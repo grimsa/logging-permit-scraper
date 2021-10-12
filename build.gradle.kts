@@ -7,8 +7,8 @@ group = "com.github.grimsa.loggingpermits"
 version = "1.0-SNAPSHOT"
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_15
-    targetCompatibility = JavaVersion.VERSION_15
+    sourceCompatibility = JavaVersion.VERSION_16
+    targetCompatibility = JavaVersion.VERSION_16
 }
 
 repositories {
@@ -17,12 +17,12 @@ repositories {
 
 dependencies {
     implementation("org.jsoup:jsoup:1.13.1")
-    implementation("org.slf4j:slf4j-api:1.7.30")
-    runtimeOnly("org.slf4j:slf4j-simple:1.7.30")
-    implementation("org.apache.commons:commons-lang3:3.11")
-    implementation("org.apache.commons:commons-csv:1.8")
+    implementation("org.slf4j:slf4j-api:1.7.32")
+    runtimeOnly("org.slf4j:slf4j-simple:1.7.32")
+    implementation("org.apache.commons:commons-lang3:3.12.0")
+    implementation("org.apache.commons:commons-csv:1.9.0")
 
-    testImplementation(platform("org.junit:junit-bom:5.7.0"))
+    testImplementation(platform("org.junit:junit-bom:5.8.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
 }
 
