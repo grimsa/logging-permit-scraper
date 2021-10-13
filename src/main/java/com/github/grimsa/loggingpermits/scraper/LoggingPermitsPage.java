@@ -11,25 +11,27 @@ import org.jsoup.nodes.FormElement;
 import java.io.IOException;
 import java.io.UncheckedIOException;
 import java.util.List;
-import java.util.Map;
 import java.util.Objects;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class LoggingPermitsPage {
-    private Map<String, String> cookies = Map.of();
+    private final Connection session;
     private final Document rootPage;
 
     public LoggingPermitsPage() throws IOException {
-        Connection.Response response = decorateConnection(Jsoup.connect("http://www.amvmt.lt/kirtleidimai/")).execute();
-        this.cookies = response.cookies();
+        this.session = decorateConnection(Jsoup.newSession());
+        Connection.Response response = session.newRequest()
+                .url("http://www.amvmt.lt/kirtleidimai/")
+                .execute();
+        System.out.println("resp cookies" + response.cookies());
+        System.out.println("session cookies " + session.cookieStore().getCookies());
         this.rootPage = response.parse();
     }
 
     private Connection decorateConnection(Connection connection) {
-        return new LoggingConnectionDecorator(connection)
-                .cookies(cookies);
+        return new LoggingConnectionDecorator(connection);
     }
 
     public List<String> getRegionOptions() {
@@ -47,7 +49,7 @@ public class LoggingPermitsPage {
     }
 
     public List<LoggingPermit> retrieveLoggingPermits(String region, boolean thisYearOnly) {
-        SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, thisYearOnly, cookies));
+        SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, thisYearOnly));
         return Stream.iterate(Optional.of(firstPage), Optional::isPresent, (Optional<SearchResultsPage> resultsPage) -> resultsPage.flatMap(SearchResultsPage::nextPage))
                 .map(Optional::get)
                 .map(SearchResultsPage::loggingPermits)
@@ -61,25 +63,24 @@ public class LoggingPermitsPage {
         private final String region;
         private final boolean thisYearOnly;
         private final Integer pageNumber;
-        private final Map<String, String> cookies;
 
         private SearchForm(Document document, SearchForm searchFormFromPreviousPage, int nextPageNumber) {
-            this(document, searchFormFromPreviousPage.region, searchFormFromPreviousPage.thisYearOnly, nextPageNumber, searchFormFromPreviousPage.cookies);
+            this(document, searchFormFromPreviousPage.region, searchFormFromPreviousPage.thisYearOnly, nextPageNumber);
         }
 
-        SearchForm(Document document, String region, boolean thisYearOnly, Map<String, String> cookies) {
-            this(document, region, thisYearOnly, null, cookies);
+        SearchForm(Document document, String region, boolean thisYearOnly) {
+            this(document, region, thisYearOnly, null);
         }
 
-        SearchForm(Document document, String region, boolean thisYearOnly, Integer pageNumber, Map<String, String> cookies) {
+        SearchForm(Document document, String region, boolean thisYearOnly, Integer pageNumber) {
             this.form = (FormElement) Objects.requireNonNull(
                     document.getElementById("form1"),
                     () -> "Search form not found in document " + document.text()
             );
+            System.out.println("SearchFormConstructor cookeies " + document.connection().cookieStore().getCookies());
             this.region = region;
             this.thisYearOnly = thisYearOnly;
             this.pageNumber = pageNumber;
-            this.cookies = cookies;
         }
 
         Document submit() {
@@ -88,8 +89,8 @@ public class LoggingPermitsPage {
                     // Browser does not submit input with type "submit" value when navigating to next page
                     form.elements().removeIf(element -> element.id().equals("Button1"));
                 }
-                Connection connection = new LoggingConnectionDecorator(form.submit())
-                        .cookies(cookies);
+                System.out.println("form owner cookies " + form.ownerDocument().connection().cookieStore().getCookies());
+                Connection connection = new LoggingConnectionDecorator(form.submit());
                 connection.data("metai").value(yearRadioButtonId());
                 connection.data(REGION_SELECT_ID).value(region);
                 if (pageNumber != null) {
