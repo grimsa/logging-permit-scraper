@@ -15,11 +15,16 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.text.Collator;
 import java.time.Instant;
+import java.time.LocalDate;
 import java.util.Comparator;
+import java.util.EnumSet;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 import java.util.stream.Collectors;
+
+import static java.time.Month.DECEMBER;
+import static java.time.Month.JANUARY;
 
 public class Scraper {
     private static final Logger log = LoggerFactory.getLogger(Scraper.class);
@@ -27,7 +32,7 @@ public class Scraper {
     private static final String README_FILE_NAME = "data/README.md";
 
     public static void main(String... args) throws IOException {
-        boolean thisYearOnly = false;
+        boolean thisYearOnly = !EnumSet.of(JANUARY, DECEMBER).contains(LocalDate.now().getMonth());
         LoggingPermitsPage page = new LoggingPermitsPage();
         List<LoggingPermit> allPermits = page.getRegionOptions().stream()
                 .map(region -> {
