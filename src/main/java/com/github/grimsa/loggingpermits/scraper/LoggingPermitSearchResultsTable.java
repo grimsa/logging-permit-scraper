@@ -79,7 +79,7 @@ class LoggingPermitSearchResultsTable {
         public String year() {
             String start = columnValues.get(COLUMN_NAMES.indexOf("Galiojimo pradžia"));
             int year = LocalDate.parse(start).getYear();
-            return Range.between(2019, 2025).contains(year)
+            return Range.between(2015, 2025).contains(year)
                     ? Integer.toString(year)
                     : "kiti";
         }
