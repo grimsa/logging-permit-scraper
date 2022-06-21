@@ -1,5 +1,5 @@
 ### Problema
-Kirtimų leidimų informacinėje sistemoje (http://www.amvmt.lt/kirtleidimai/) duomenys pateikiami puslapiais be galimybės juos eksportuoti kokiu nors strutūrizuotų duomenų formatu.
+Kirtimų leidimų informacinėje sistemoje (https://kirtleidimai.amvmt.lt/) duomenys pateikiami puslapiais be galimybės juos eksportuoti kokiu nors strutūrizuotų duomenų formatu.
 Dėl to kiekvieną kartą prieš analizuojant šiuos duomenis reikalingas nemažas rankinis darbas duomenų paruošimui.
 
 ### Siekiamybė

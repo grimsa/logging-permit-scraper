@@ -22,7 +22,7 @@ public class LoggingPermitsPage {
     private final Document rootPage;
 
     public LoggingPermitsPage() throws IOException {
-        Connection.Response response = decorateConnection(Jsoup.connect("http://www.amvmt.lt/kirtleidimai/")).execute();
+        Connection.Response response = decorateConnection(Jsoup.connect("https://kirtleidimai.amvmt.lt/")).execute();
         this.cookies = response.cookies();
         this.rootPage = response.parse();
     }

@@ -7,8 +7,8 @@ group = "com.github.grimsa.loggingpermits"
 version = "1.0-SNAPSHOT"
 
 java {
-    sourceCompatibility = JavaVersion.VERSION_16
-    targetCompatibility = JavaVersion.VERSION_16
+    sourceCompatibility = JavaVersion.VERSION_18
+    targetCompatibility = JavaVersion.VERSION_18
 }
 
 repositories {
