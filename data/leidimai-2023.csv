@@ -1,5 +1,14 @@
 Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kvartalas,Sklypai,Plotas,Kad. vietovė,Kad. blokas,Kad. nr.,Kirtimo rūšis,Galiojimo pradžia,Galiojimo pabaiga
 122 - 11128,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Dušnionių girininkija,491,3,0.3,3355,0001,0266,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11507,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Punios girininkija,233,8a,0.6,3323,0003,0137,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11524,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,518,44,0.2,3330,0003,0092,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11524,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,518,44b,0.1,3330,0003,0092,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11524,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,518,44c,0.5,3330,0003,0092,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11524,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,518,5,0.1,3330,0003,0092,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11541,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,735,13,0.4,3358,0001,0314,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11541,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,735,6b,0.3,3358,0001,0314,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11544,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Alytaus miškų urėdija,Sudvajų girininkija,735,23b,0.2,3358,0001,0112,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11402,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Merkinės girininkija,732,40,3.2,3823,0002,0090,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11127,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Prienų miškų urėdija,Birštono girininkija,414,57,0.1,6908,0006,0026,Miško lydimo kirtimas (TN),2023-01-01,2023-12-31
 122 - 11127,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Prienų miškų urėdija,Birštono girininkija,48,16,0.3,6908,0006,0026,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11255,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,129,4c,0.4,3828,0005,0021,Atvejinis kirtimas,2023-01-01,2023-12-31
@@ -10,12 +19,107 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11388,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,129,39,0.3,3825,0002,0432,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11389,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,207,1a,0.3,3825,0003,0015,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11390,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,197,"33,37k",0.9,3825,0003,0014,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11526,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,109,"2d,9b",2.7,3825,0004,0006,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11526,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,109,3,1.0,3825,0004,0006,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11526,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Marcinkonių girininkija,109,9a,0.5,3825,0004,0006,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11375,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,810,"6,8a",0.7,3820,0007,0020,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11377,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,608,4a,0.4,3863,0010,0157,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11377,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,609,2,1.0,3863,0010,0157,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11398,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,24,3f,2.1,3828,0003,0152,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11437,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,46,32a,1.7,3828,0002,0139,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11437,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,46,32a,6.6,3828,0002,0139,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11437,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,46,40,1.9,3828,0002,0139,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11437,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,46,44,1.0,3828,0002,0139,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11441,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,718,3h,0.6,3820,0002,0020,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11454,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,895,9a,0.9,3820,0006,0083,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11454,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,896,2a,0.6,3820,0006,0083,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,523,10,0.4,3863,0008,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,566,11b,0.1,3863,0008,0043,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,566,11d,0.6,3863,0008,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,566,11e,0.8,3863,0008,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,566,7,0.5,3863,0008,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,567,7a,0.2,3863,0008,0043,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,567,7b,0.4,3863,0008,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11460,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,567,9,0.2,3863,0008,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11537,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,779,"4,5a,6a",2.9,3828,0002,0153,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11539,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,31,8a,0.1,3828,0003,0310,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11540,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,31,10,1.0,3828,0003,0310,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11540,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Perlojos girininkija,31,8e,2.5,3828,0003,0310,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2977,Alytaus,Alytaus rajono kontroliuojama teritorija,valstybinė,Veisiejų miškų urėdija,Ančios girininkija,28,44,7.3,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2977,Alytaus,Alytaus rajono kontroliuojama teritorija,valstybinė,Veisiejų miškų urėdija,Ančios girininkija,29,10,2.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11459,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,381,28a,0.3,5948,0005,0490,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11459,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,381,28b,0.4,5948,0005,0490,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11476,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,381,29,0.1,5948,0005,0490,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11476,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,381,30,0.2,5948,0005,0490,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11476,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,381,38,0.1,5948,0005,0490,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11479,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Veisiejų girininkija,52,7a,0.4,5918,0005,0135,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11505,Alytaus,Alytaus rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Veisiejų girininkija,489,4,0.7,5950,0001,0124,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2971,Alytaus,Alytaus teritorinis poskyris,valstybinė,Druskininkų miškų urėdija,Latežerio girininkija,321,12,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2971,Alytaus,Alytaus teritorinis poskyris,valstybinė,Druskininkų miškų urėdija,Latežerio girininkija,321,9,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2971,Alytaus,Alytaus teritorinis poskyris,valstybinė,Druskininkų miškų urėdija,Latežerio girininkija,382,18,4.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2965,Alytaus,Alytaus teritorinis poskyris,valstybinė,Druskininkų miškų urėdija,Merkinės girininkija,32,1,6.5,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,54,"11,13,28",9.2,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,54,14,0.1,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,54,"4,7,29",6.0,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,54,"6,15,17,20",4.6,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,55,14,0.7,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,56,"1,3,9",2.3,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,76,2,0.5,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,76,5,1.3,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,76,8,0.8,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,77,"11,13,15",8.7,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,78,"8,10,12",8.0,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,79,"1,2,3",7.6,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,98,11,1.1,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,98,"4,7,9,10,12",22.9,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,99,"5,7,11",13.5,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2961,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,99,6,1.5,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,100,"3,4",14.7,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,100,7,0.8,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,101,"1,2",8.7,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,120,"1,2,4",6.2,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,120,6,0.1,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,121,1,1.8,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,121,11,0.7,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,121,"7,9",0.7,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,121,8,0.9,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,122,"7,9,11,16,17,18",4.3,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,563,"27,28",1.3,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,563,31,0.1,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,564,10,0.2,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,584,"19,22",1.4,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,585,"11,17",0.9,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2962,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,585,21,0.3,0,0,0,Miško lydimo kirtimas (PN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,100,"1,2,5,6,8",20.2,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,101,"3-6,8-10,12-15",23.0,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,119,"5,6,7",1.5,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,121,"3,4,6,10,12,13,18",7.8,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,122,"1,3-6,8,10",9.9,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,123,"1,3",1.4,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,54,"5,10,12,16,18,19,23-27",8.2,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,55,"1,4-7,9,10,13,15,16",14.8,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,56,"4,5,6,7,8",4.4,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,75,"10,27",1.4,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,76,"3,4,6,7,9-22",32.4,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,77,"1-10,12,14",27.1,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,78,"1,4,5,7,9,11,13",24.9,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,97,"5,6,7,13",6.8,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,98,"1,2,3,5,6",9.9,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2975,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,99,"2,3,4,10",12.7,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,1,"2,3",4.9,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,523,"11,12",2.0,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,563,"24,29",1.4,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,564,11,0.1,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,584,"1-16,18,19,22",18.7,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,584,"12,13,20,21",6.0,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2976,Alytaus,Alytaus teritorinis poskyris,valstybinė,Valkininkų miškų urėdija,Pirčiupių girininkija,586,"5,12",0.5,0,0,0,Miško lydimo kirtimas (TN),2023-01-02,2023-12-31
+222 - 2966,Alytaus,Alytaus teritorinis poskyris,valstybinė,Veisiejų miškų urėdija,Baltašiškės girininkija,57,100,1.3,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11057,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Grūto girininkija,141,23b,1.0,3878,0007,0174,Atrankinis kirtimas,2023-01-02,2023-12-31
 122 - 11299,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Grūto girininkija,206,34,0.6,3805,0002,0181,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11300,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Grūto girininkija,71,4a,0.6,3878,0005,0006,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11511,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Grūto girininkija,172,12,0.7,3805,0002,0172,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11511,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Grūto girininkija,172,"13a,13b,17b",2.0,3805,0002,0172,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11511,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Grūto girininkija,172,17a,0.4,3805,0002,0172,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11060,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,123,33d,0.5,3830,0007,0018,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11060,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,123,33e,0.9,3830,0007,0018,Atvejinis kirtimas,2023-01-02,2023-12-31
 122 - 11060,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,124,13b,0.2,3830,0007,0018,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
@@ -28,6 +132,7 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11340,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,196,14a,3.5,3830,0001,0005,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11340,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,196,14d,0.4,3830,0001,0005,Atvejinis kirtimas,2023-01-02,2023-12-31
 122 - 11345,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,139,21,0.4,3830,0007,0019,Plynas sanitarinis kirtimas (PN),2023-01-02,2023-12-31
+122 - 11559,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Kabelių girininkija,237,27,0.2,3810,0004,0160,Plynas sanitarinis kirtimas (PN),2023-01-02,2023-12-31
 122 - 11019,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,290,3,2.0,3838,0002,0057,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11019,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,290,32a,0.2,3838,0002,0057,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11019,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,290,32b,0.3,3838,0002,0057,Atvejinis kirtimas,2023-01-02,2023-12-31
@@ -36,6 +141,8 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11343,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,255,50b,5.6,3838,0001,0006,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11343,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,255,50d,0.2,3838,0001,0006,Atrankinis kirtimas,2023-01-02,2023-12-31
 122 - 11343,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,255,9,0.9,3838,0001,0006,Atrankinis kirtimas,2023-01-02,2023-12-31
+122 - 11412,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,267,31,0.1,3838,0002,0019,Atvejinis kirtimas,2023-01-02,2023-12-31
+122 - 11412,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Musteikos girininkija,267,53,0.3,3838,0002,0019,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11090,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,554,16,0.8,3830,0006,0084,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11092,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,185,22,4.6,3830,0005,0119,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11092,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Druskininkų miškų urėdija,Norulių girininkija,185,24,2.5,3830,0005,0119,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
@@ -49,6 +156,9 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11142,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Ančios girininkija,85,11,0.8,5930,0002,0225,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11248,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,9,12c,0.2,5908,0002,0043,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11252,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,789,"37a,44a",1.6,5925,0010,0112,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11498,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,808,1,0.7,5925,0010,0191,Atvejinis kirtimas,2023-01-02,2023-12-31
+122 - 11529,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,806,10,1.0,5925,0010,0078,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11529,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Baltašiškės girininkija,807,28,0.3,5925,0010,0078,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11055,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,131,1,0.7,5958,0005,0028,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11236,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,134,42,0.1,5958,0007,0144,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11236,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,139,6a,0.3,5958,0007,0144,Plynas kirtimas,2023-01-02,2023-12-31
@@ -56,7 +166,18 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11361,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Leipalingio girininkija,630,"2,4",3.0,5925,0003,0282,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11362,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Leipalingio girininkija,630,"12a,12b,12c,13a,13b",2.7,5925,0003,0283,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11362,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Leipalingio girininkija,630,14,0.1,5925,0003,0283,Atrankinis kirtimas,2023-01-02,2023-12-31
+122 - 11514,Alytaus,Druskininkų miesto kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Leipalingio girininkija,639,29,0.7,5935,0001,0082,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11314,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,131,1,0.7,5958,0005,0028,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11418,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,106,22a,0.5,5958,0005,0012,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11418,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,106,22a,0.6,5958,0005,0012,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11418,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,106,22b,0.6,5958,0005,0012,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11418,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,106,23a,0.3,5958,0005,0012,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11522,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,127,4a,0.1,5958,0006,0267,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11522,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Kapčiamiesčio girininkija,775,"24a,25a,26a",0.8,5958,0006,0267,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11477,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,441,"29,30a",1.3,5938,0004,0115,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11477,Alytaus,Lazdijų rajono kontroliuojama teritorija,privati,Veisiejų miškų urėdija,Seirijų girininkija,441,"35a,35b,36,38",1.5,5938,0004,0115,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11581,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Pirčiupių girininkija,540,"20,21",1.3,3850,0003,0123,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11581,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Pirčiupių girininkija,540,26,0.4,3850,0003,0123,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 11313,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Dainavos girininkija,169,24d,0.2,3858,0001,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11323,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Dainavos girininkija,1182,"40a,40b",2.6,3883,0001,0402,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11329,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Dainavos girininkija,272,5a,1.2,3858,0002,0021,Plynas kirtimas,2023-01-01,2023-12-31
@@ -70,11 +191,23 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11318,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,22,4,0.3,3845,0002,0082,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11331,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,22,12,2.1,3845,0002,0371,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11331,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,22,13a,1.1,3845,0002,0371,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11432,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,244,5a,0.2,3863,0007,0259,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11432,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Glūko girininkija,255,"10,10a",1.7,3863,0007,0259,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11327,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,179,8d,0.5,3833,0012,0055,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11328,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Matuizų girininkija,845,7a,2.1,3815,0001,0106,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11467,Alytaus,Varėnos rajono kontroliuojama teritorija,privati,Varėnos miškų urėdija,Zervynų girininkija,357,4b,2.0,3820,0008,0065,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11501,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Girelės girininkija,442,14a,0.4,4618,0006,0160,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11501,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Girelės girininkija,442,8a,1.6,4618,0006,0160,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11501,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Girelės girininkija,442,9a,0.7,4618,0006,0160,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11067,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,5,2,0.6,4620,0006,0007,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11496,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,546,16a,0.0,4620,0002,0011,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11496,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,546,"16a,29a",0.4,4620,0002,0011,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11496,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,546,29a,0.5,4620,0002,0011,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11500,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Jonavos miškų urėdija,Pageležių girininkija,13,7a,0.3,4620,0006,0005,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11077,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Padauguvos girininkija,9,13,1.0,5243,0005,0069,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11077,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Padauguvos girininkija,9,"19a,19b",0.8,5243,0005,0069,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11423,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Padauguvos girininkija,4,3a,0.3,5243,0005,0085,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+122 - 11423,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Padauguvos girininkija,4,7,0.3,5243,0005,0085,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11317,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Sitkūnų girininkija,73,4,0.4,5203,0007,0027,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11317,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Sitkūnų girininkija,73,5,0.6,5203,0007,0027,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11325,Kauno,Jonavos rajono kontroliuojama teritorija,privati,Kauno miškų urėdija,Sitkūnų girininkija,62,19,0.3,5203,0007,0078,Plynas kirtimas,2023-01-01,2023-12-31
@@ -85,9 +218,44 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11111,Kauno,Jurbarko rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Klevinių girininkija,398,29,0.9,8464,0007,0347,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10983,Kauno,Jurbarko rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Plokščių girininkija,329,"4c,5b",0.5,8474,0007,0122,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11096,Kauno,Jurbarko rajono kontroliuojama teritorija,privati,Šakių miškų urėdija,Plokščių girininkija,37,"4a,4b,4c",1.1,8474,0007,0123,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,101,"27,39,44",2.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,102,5,1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,103,"17,18",1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,104,"11,14,15,22",2.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,104,3,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,139,"18,26",1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,142,"7,8",0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,170,1,1.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,186,"5,6,7",1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,228,2,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,231,13,2.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,237,"2,9",1.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,241,7,2.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2949,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,249,24,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,102,4,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,245,"45,46",0.3,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,249,"2,19,20",3.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,252,"5,7",1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,252,8,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,257,17,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,258,38,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,288,"8,10",4.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,380,20,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,386,16,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,419,8,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,71,"11,29",1.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2950,Kauno,Kaišiadorių rajono kontroliuojama teritorija,valstybinė,Kaišiadorių miškų urėdija,Būdos girininkija,72,"23,24",1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11209,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Palomenės girininkija,346,22,0.3,4948,0001,0022,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11209,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Palomenės girininkija,346,27,0.1,4948,0001,0022,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11474,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kaišiadorių miškų urėdija,Palomenės girininkija,46,3,0.1,4948,0001,0071,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11239,Kauno,Kaišiadorių rajono kontroliuojama teritorija,privati,Kazlų Rūdos miškų urėdija,Višakio Rūdos girininkija,316,"13a,13b",1.6,8448,0002,0208,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+122 - 11433,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Panemunės girininkija,506,"30,31",1.2,9410,0008,0019,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11489,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Panemunės girininkija,535,4,1.3,9477,0004,0346,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11041,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Pašvenčio girininkija,481,2,0.8,9434,0004,0021,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11510,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Pašvenčio girininkija,135,1,2.3,9434,0009,0013,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11422,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Veliuonos girininkija,638,5,1.6,9467,0002,0117,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11465,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Veliuonos girininkija,160,"17,18",0.7,9401,0008,0082,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11513,Kauno,Kauno rajono kontroliuojama teritorija,privati,Jurbarko miškų urėdija,Veliuonos girininkija,163,30a,1.0,9401,0008,0136,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11221,Kauno,Kauno rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Birbiliškės girininkija,667,"14,32",0.4,9404,0001,0005,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11221,Kauno,Kauno rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Birbiliškės girininkija,667,"34,34a",0.6,9404,0001,0005,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11045,Kauno,Kauno rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Vadžgirio girininkija,581,32,0.3,9484,0004,0126,Plynas kirtimas,2023-01-01,2023-12-31
@@ -103,6 +271,19 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 222 - 2942,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,7,24,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 222 - 2942,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,8,"15,20",1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 222 - 2942,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,8,20,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,103,12,1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,15,3,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,17,14,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,17,15,0.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,21,"10,16",0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,21,17,0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,46,10,0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,46,9,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,75,5,0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,86,31,3.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,88,26,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,88,30,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2944,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Padauguvos girininkija,96,11,1.6,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
 222 - 2941,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vilkijos girininkija,127,31,1.4,0,0,0,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 222 - 2941,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vilkijos girininkija,133,2,0.5,0,0,0,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 222 - 2941,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vilkijos girininkija,133,3,0.6,0,0,0,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
@@ -117,10 +298,51 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 222 - 2943,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vilkijos girininkija,68,13,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 222 - 2943,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vilkijos girininkija,68,29,2.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 222 - 2943,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vilkijos girininkija,71,8,1.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,100,18,1.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,100,19,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,100,7,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,102,10,1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,102,9,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,112,1,1.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,112,13,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,91,26,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,91,26,1.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,91,27,0.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,92,13,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,92,26,2.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,92,8,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,16,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,17,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,19,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,28,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,30,1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,31,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,4,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2945,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,94,7,0.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,122,20,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,52,8,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,52,9,1.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,65,11,0.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,65,11,2.5,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,65,4,1.4,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,66,26,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,77,17,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,77,26,1.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,78,5,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,81,37,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2946,Kauno,Kauno teritorinis poskyris,valstybinė,Kauno miškų urėdija,Vytėnų girininkija,81,39,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11238,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Dotnuvos girininkija,94,"2,4",1.8,5315,0005,0058,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 122 - 11257,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Dotnuvos girininkija,109,8a,0.3,5380,0003,0094,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+122 - 11463,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Dotnuvos girininkija,146,6,0.9,5383,0003,0094,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11525,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Dotnuvos girininkija,295,1b,0.2,5347,0001,0008,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11525,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Dotnuvos girininkija,295,"7c,7d",0.9,5347,0001,0008,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11405,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Kėdainių girininkija,44,12,1.6,5396,0005,0028,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11527,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Lančiūnavos girininkija,482,"7a,9a",1.7,5353,0004,0096,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11527,Kauno,Kėdainių rajono kontroliuojama teritorija,privati,Kėdainių miškų urėdija,Lančiūnavos girininkija,482,9a,1.3,5353,0004,0096,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11107,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Paliepių girininkija,519,15,0.4,7278,0006,0422,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11107,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Paliepių girininkija,519,28,0.2,7278,0006,0422,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11475,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Paliepių girininkija,526,23,1.9,7208,0005,0275,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11475,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Paliepių girininkija,526,23a,0.6,7208,0005,0275,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11046,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Pikčiūnų girininkija,18,"1,3,14",2.2,7268,0001,0119,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11046,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Pikčiūnų girininkija,18,13,0.2,7268,0001,0119,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11204,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Pikčiūnų girininkija,425,"1,4",2.9,7205,0002,0310,Plynas kirtimas,2023-01-01,2023-12-31
@@ -128,6 +350,12 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11205,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Šimkaičių girininkija,615,"39a,39b,39c,39f",1.7,7223,0003,0109,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11207,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Šimkaičių girininkija,615,39g,0.5,7223,0003,0109,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11211,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,22a,0.2,7248,0001,0031,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11436,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,21,1.7,7248,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11436,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,23,0.8,7248,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11436,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,25,0.4,7248,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11438,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,21,1.7,7248,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11438,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,23,0.8,7248,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11438,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Raseinių miškų urėdija,Viduklės girininkija,51,25,0.4,7248,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11268,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Tytuvėnų miškų urėdija,Šiluvos girininkija,919,"4,6",0.9,7233,0003,0117,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11280,Kauno,Raseinių rajono kontroliuojama teritorija,privati,Tytuvėnų miškų urėdija,Šiluvos girininkija,919,5a,0.2,7233,0003,0117,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10971,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Balelių girininkija,190,6a,0.6,8122,0002,0037,Plynas kirtimas,2023-01-01,2023-12-31
@@ -138,41 +366,112 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 10972,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Balelių girininkija,188,307a,1.6,8122,0002,0036,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11356,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Balelių girininkija,406,7a,1.8,8188,0004,0142,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11167,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Taujėnų girininkija,104,"9,12a",2.7,8175,0003,0015,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11419,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Taujėnų girininkija,299,2a,0.1,8105,0003,0059,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11482,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Želvos girininkija,594,48,0.5,8140,0001,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11482,Kauno,Ukmergės rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Želvos girininkija,594,70,0.9,8140,0001,0131,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11192,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Mikoliškių girininkija,901,27,1.1,5559,0003,0068,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11370,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vėžaičių girininkija,1016,"37a,37b",1.7,5525,0008,0143,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11370,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vėžaičių girininkija,1016,37b,1.0,5525,0008,0143,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11535,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vėžaičių girininkija,27,18,0.9,5501,0004,0231,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11385,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Balėnų girininkija,291,39,1.9,6174,0001,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11385,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Balėnų girininkija,291,43,0.7,6174,0001,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11386,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Balėnų girininkija,291,49b,0.4,6174,0001,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11386,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Balėnų girininkija,291,50b,0.2,6174,0001,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11304,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,32,1.0,3218,0008,0133,Plynas kirtimas,2023-01-01,2023-12-31
-122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,57,29d,0.5,3218,0008,0132,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,25a,0.4,3218,0008,0132,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,29a,0.3,3218,0008,0132,Atvejinis kirtimas,2023-12-13,2024-12-31
-122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,29b,0.2,3218,0008,0132,Atvejinis kirtimas,2023-12-13,2024-12-31
-122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,34a,0.3,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,34b,0.3,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,35a,0.2,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,46g,0.1,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,38,0.5,3218,0008,0131,Atvejinis kirtimas,2023-12-13,2024-12-31
-122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,44,0.8,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,46b,0.2,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,48a,0.4,3218,0008,0131,Plynas kirtimas,2023-12-13,2024-12-31
-122 - 11308,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,46f,0.2,3218,0008,0131,Atvejinis kirtimas,2023-12-13,2024-12-31
+122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,57,29d,0.5,3218,0008,0132,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,25a,0.4,3218,0008,0132,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,29a,0.3,3218,0008,0132,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11305,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,570,29b,0.2,3218,0008,0132,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,34a,0.3,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,34b,0.3,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,35a,0.2,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11306,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,46g,0.1,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,38,0.5,3218,0008,0131,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,44,0.8,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,46b,0.2,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11307,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,48a,0.4,3218,0008,0131,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11308,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Kapėnų girininkija,571,46f,0.2,3218,0008,0131,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11387,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Mažeikių girininkija,201,"5,6",1.5,6124,0002,0057,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11289,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Judrėnų girininkija,48,"23,32",1.0,5518,0008,0048,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11380,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Judrėnų girininkija,100,55,0.2,5533,0002,0163,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11382,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Judrėnų girininkija,100,57,0.8,5533,0002,0163,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11530,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Judrėnų girininkija,650,1b,0.4,5533,0002,0090,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11217,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Telšių girininkija,1130,17,0.4,7888,0003,0279,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11269,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Ubiškės girininkija,1325,66,0.2,7863,0002,0060,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11269,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Ubiškės girininkija,1325,68,0.8,7863,0002,0060,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11269,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Ubiškės girininkija,1325,73b,0.2,7863,0002,0060,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11425,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Ubiškės girininkija,1236,27,0.8,7808,0001,0122,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11425,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Ubiškės girininkija,1236,31,0.8,7808,0001,0122,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11425,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Ubiškės girininkija,1236,7b,0.3,7808,0001,0122,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11231,Klaipėdos,Klaipėdos rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Žarėnų girininkija,1402,11b,2.7,7833,0003,0250,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11538,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Darbėnų girininkija,613,"9a,10a,10b,12",1.7,5604,0005,0291,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11374,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,747,12a,1.4,5654,0001,0094,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11424,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,747,"15,9b",3.0,5654,0002,0894,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11506,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,157,27,0.8,5654,0005,0051,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11547,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,750,43,0.4,5654,0001,0163,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11547,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,754,"8,9",1.9,5654,0001,0163,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11548,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,750,"37a,37b,53a,54",2.5,5654,0001,0163,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11548,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,754,10,0.6,5654,0001,0163,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11582,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Kartenos girininkija,783,15a,1.1,5601,0006,0059,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11532,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Lenkimų girininkija,45,"15a,15b",1.0,5667,0001,0316,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11464,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Mikoliškių girininkija,138,18,0.4,5657,0007,0063,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11504,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Mikoliškių girininkija,852,40,0.4,5657,0007,0072,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2960,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Mikoliškių girininkija,18,48,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2960,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Mikoliškių girininkija,26,14e,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,19,7,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,19,8,1.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,20,19,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,20,3e,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,29,22,0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,29,25,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,40,11,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,40,12,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2974,Klaipėdos,Kretingos rajono kontroliuojama teritorija,valstybinė,Kretingos miškų urėdija,Šventosios girininkija,56,5,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11120,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vaineikių girininkija,686,12,0.5,5630,0005,0046,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11347,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vaineikių girininkija,710,22,0.4,5640,0004,0122,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11347,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vaineikių girininkija,710,26,0.4,5640,0004,0122,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11347,Klaipėdos,Kretingos rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Vaineikių girininkija,710,31,0.5,5640,0004,0122,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11533,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Skuodo girininkija,464,16,0.2,7554,0004,0109,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11533,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Skuodo girininkija,464,20,0.5,7554,0004,0109,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11542,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Kretingos miškų urėdija,Skuodo girininkija,438,6,0.8,7543,0003,0255,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11408,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Labardžių girininkija,57,"21,22",1.7,6840,0001,0101,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11407,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Skroblės girininkija,1,"47a,47b,48a",0.9,6864,0004,0020,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11411,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Skroblės girininkija,250,11,1.1,6860,0011,0026,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11528,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Platelių girininkija,5,"37a,42a",0.4,7507,0001,0045,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+122 - 11558,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Plungės girininkija,520,56a,1.1,6827,0004,0153,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11558,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Plungės girininkija,520,64a,1.0,6827,0004,0153,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11561,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Plungės girininkija,520,40a,0.7,6827,0004,0153,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11561,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Plungės girininkija,520,65,0.1,6827,0004,0153,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11561,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Plungės girininkija,520,67,0.7,6827,0004,0153,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11435,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Žarėnų girininkija,922,6,1.1,6830,0002,0219,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11435,Klaipėdos,Plungės rajono kontroliuojama teritorija,privati,Telšių miškų urėdija,Žarėnų girininkija,922,7b,0.8,6830,0002,0219,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,43,14,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,43,28,0.8,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,44,58,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,56,"18,20,22",2.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,72,17,2.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,72,24,1.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,75,"25,28",0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,76,"20,27",1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,87,16,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,99,"21,23",1.5,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,99,5,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2955,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Skroblės girininkija,99,6,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,21,"22,36",2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,21,"38,39,42",1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,23,"10e,13e",0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,23,10f,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,23,25e,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,26,"23,24",1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,31,"33,36",1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,33,"4,12,5",3.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,4,15,1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,4,17,0.5,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,52,"6,8,30",5.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,63,19,1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,697,"69,71",1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,697,88,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2957,Klaipėdos,Rietavo rajono kontroliuojama teritorija,valstybinė,Rietavo miškų urėdija,Tenenių girininkija,76,19,2.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10975,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Kaltinėnų girininkija,819,13,1.3,8734,0003,0114,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10975,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Kaltinėnų girininkija,819,20,1.5,8734,0003,0114,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10976,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Kaltinėnų girininkija,819,18,0.7,8734,0003,0114,Plynas kirtimas,2023-01-01,2023-12-31
@@ -180,8 +479,44 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 10978,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Rietavo miškų urėdija,Kaltinėnų girininkija,819,23,0.5,8734,0003,0111,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11352,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Batakių girininkija,10,25a,0.2,7713,0003,0044,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11352,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Batakių girininkija,10,"6a,7a",0.5,7713,0003,0044,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11409,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Batakių girininkija,612,"34,34a",0.8,7743,0003,0186,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11409,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Batakių girininkija,612,"46,47,44,45",1.6,7743,0003,0186,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11410,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Batakių girininkija,612,"34,24,24a,34b,35,44",2.6,7743,0003,0186,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11508,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Batakių girininkija,97,24b,0.3,7713,0006,0338,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11554,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Eičių girininkija,47,60,0.4,7742,0003,0064,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11197,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Šilinės girininkija,862,43c,0.5,7710,0002,0052,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11198,Klaipėdos,Šilalės rajono kontroliuojama teritorija,privati,Tauragės miškų urėdija,Šilinės girininkija,866,8a,0.5,7710,0002,0053,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,10,"1,8a",1.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,10,16,2.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,10,4a,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,3,"19a,21a",1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,6,"44,46",2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,9,10,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2979,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,9,32a,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2980,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,15,"40,28",2.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2980,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,16,40,0.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2980,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,21,"9,21",1.7,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2980,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,31,38,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2980,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,31,49,1.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2980,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kairiškių girininkija,33,"3,12",2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,2,4,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,3,10,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,6,14,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,6,6,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,8,3,2.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,86,"27,28",2.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2981,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Kruopių girininkija,92,"4a,6a,7a,8a,10a,11a,16a",3.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2983,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,35,27,1.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2983,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,35,36,2.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2983,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,35,3a,3.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2983,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,36,9,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2983,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,43,8a,2.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2984,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,43,29a,3.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2984,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,503,"38,44,45",2.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2984,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,67,13,2.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2984,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,67,15,2.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2984,Panevėžio,Akmenės rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Papilės girininkija,68,26,2.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11555,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Biržų girininkija,671,37a,0.1,3645,0002,0655,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11003,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,494,39,0.9,3648,0002,0058,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 122 - 11018,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,512,5,0.5,3620,0003,0041,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11061,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,497,"53,54b,54d",1.4,3622,0007,0011,Plynas kirtimas,2023-01-01,2023-12-31
@@ -198,16 +533,54 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11355,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,353,"4a,18b,30a",1.1,3665,0006,0072,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11373,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,485,14a,0.7,3607,0005,0075,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11373,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,485,14b,1.3,3607,0005,0075,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11499,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,480,56a,0.8,3668,0001,0012,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11587,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Būginių girininkija,481,49,1.9,3668,0002,0019,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11047,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Kriklinių girininkija,62,"10,11",1.2,6701,0002,0024,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11047,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Kriklinių girininkija,78,"1,2,2b",1.4,6701,0002,0024,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11201,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Kriklinių girininkija,274,17b,2.5,6703,0004,0033,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11440,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Kriklinių girininkija,45,18a,1.4,6701,0002,0064,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11394,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Latvelių girininkija,419,17a,2.2,3630,0001,0046,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11394,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Latvelių girininkija,419,18,0.2,3630,0001,0046,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11394,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Latvelių girininkija,419,19b,0.1,3630,0001,0046,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11394,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Latvelių girininkija,419,22b,1.6,3630,0001,0046,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11365,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Pasvalio girininkija,748,38,0.8,6780,0007,0097,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11493,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Pasvalio girininkija,863,96,1.0,6725,0009,0194,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11495,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Pasvalio girininkija,749,"7,14",1.6,6773,0003,0179,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,137,12,0.9,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,17,18,2.5,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,18,13,2.2,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,2,9,2.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,20,6,2.3,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,238,21,2.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,249,33,1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,256,2,3.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,28,"11,21",4.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,54,6,3.4,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,57,15,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,57,6,2.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2953,Panevėžio,Biržų rajono kontroliuojama teritorija,valstybinė,Biržų miškų urėdija,Pasvalio girininkija,842,5,2.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11036,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,556,8c,1.3,3648,0003,0031,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11360,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,590,"7,11",1.3,3618,0007,0073,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11364,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,584,19,1.0,3635,0003,0033,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11372,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,443,"60,76",0.9,3650,0001,0102,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11396,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,617,70,0.4,3601,0006,0069,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11397,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,617,"71,71a,71b,72b",1.3,3601,0006,0069,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11397,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,617,72,0.2,3601,0006,0069,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11406,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,560,24b,0.4,3609,0003,0023,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11406,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,560,27d,0.4,3609,0003,0023,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11430,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,607,47,0.1,3601,0002,0055,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11430,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,607,50,0.1,3601,0002,0055,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11509,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,616,42,0.3,3601,0006,0290,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11509,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,616,45,0.6,3601,0006,0290,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11512,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,616,42,0.6,3601,0006,0292,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11512,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,616,45,0.7,3601,0006,0292,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11568,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Biržų miškų urėdija,Vabalninko girininkija,572,10,1.1,3609,0006,0068,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11291,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Klovainių girininkija,122,27a,2.2,6730,0011,0001,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11291,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Klovainių girininkija,122,"38,39",2.0,6730,0011,0001,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11413,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Klovainių girininkija,132,24,1.1,6730,0012,0037,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11444,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Klovainių girininkija,132,16a,0.4,6730,0012,0037,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11444,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Klovainių girininkija,132,22a,3.0,6730,0012,0037,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11455,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Pakruojo miškų urėdija,Klovainių girininkija,153,24a,0.8,6730,0011,0133,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11302,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gegužinės girininkija,35,1,0.8,6654,0007,0487,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11302,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gegužinės girininkija,35,2a,0.5,6654,0007,0487,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11072,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,340,26a,0.8,6661,0004,0138,Plynas kirtimas,2023-01-01,2023-12-31
@@ -215,16 +588,34 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11200,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,326,"29a,39b",1.4,6639,0001,0118,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 122 - 11200,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,326,30a,0.1,6639,0001,0118,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 122 - 11371,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,333,3,1.0,6604,0001,0783,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11492,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Gustonių girininkija,49,7a,0.7,6611,0003,0571,Plynas sanitarinis kirtimas (TN),2023-01-01,2023-12-31
 122 - 11220,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Karsakiškio girininkija,177,41b,1.1,6681,0001,0045,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11224,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Karsakiškio girininkija,177,40d,0.2,6681,0001,0045,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11381,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Karsakiškio girininkija,424,5a,0.3,6681,0002,0165,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11381,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Karsakiškio girininkija,424,5d,0.2,6681,0002,0165,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11519,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Karsakiškio girininkija,422,"37a,37b",2.8,6626,0002,0033,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11054,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,52,16,1.2,6632,0001,0035,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11054,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,52,"23,25",1.2,6632,0001,0035,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11058,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,52,25,0.3,6632,0001,0035,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11158,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,292,19a,0.4,6671,0003,0022,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 122 - 11243,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,52,24a,0.1,6632,0001,0035,Plynas sanitarinis kirtimas (TN),2023-01-01,2023-12-31
 122 - 11243,Panevėžio,Biržų rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Pyvesos girininkija,52,24c,0.2,6632,0001,0035,Plynas sanitarinis kirtimas (TN),2023-01-01,2023-12-31
+222 - 2985,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,17,6,1.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2985,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,37,7,5.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2985,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,55,1,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2985,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,55,17,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2985,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,55,2,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2985,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Satkūnų girininkija,58,4,2.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,114,29,0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,120,10,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,47,40,1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,61,3,1.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,76,"4,10",1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,81,1,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,83,15,1.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,83,9,0.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,88,4,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2986,Panevėžio,Joniškio rajono kontroliuojama teritorija,valstybinė,Joniškio miškų urėdija,Žagarės girininkija,97,5,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11076,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Alizavos girininkija,59,4b,0.5,5733,0010,0026,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11076,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Alizavos girininkija,59,4c,0.6,5733,0010,0026,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11078,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Alizavos girininkija,31,19,1.2,5733,0010,0026,Plynas sanitarinis kirtimas (PN),2023-01-02,2023-12-31
@@ -240,6 +631,8 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11098,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Skapiškio girininkija,160,1,0.4,5743,0005,0160,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11097,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Subačiaus girininkija,20,29,1.6,5750,0001,0223,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11254,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Subačiaus girininkija,396,16b,0.2,5750,0001,0068,Atvejinis kirtimas,2023-01-02,2023-12-31
+122 - 11536,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Subačiaus girininkija,374,41a,0.2,5725,0004,0084,Plynas kirtimas,2023-01-02,2023-12-31
+122 - 11536,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Subačiaus girininkija,374,53a,0.6,5725,0004,0084,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11123,Panevėžio,Kupiškio rajono kontroliuojama teritorija,privati,Kupiškio miškų urėdija,Šimonių girininkija,586,30,3.1,5701,0002,0142,Atvejinių kirtimų (paskutinis atvejis),2023-01-02,2023-12-31
 122 - 11261,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Joniškio miškų urėdija,Beržėnų girininkija,841,10,0.4,9122,0001,0199,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11261,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Joniškio miškų urėdija,Beržėnų girininkija,841,11a,1.3,9122,0001,0199,Plynas kirtimas,2023-01-01,2023-12-31
@@ -252,16 +645,40 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11148,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,440,"47a,47b,56b",1.2,3243,0007,0167,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11148,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,440,63a,0.9,3243,0007,0167,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11149,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,441,1,0.7,3243,0006,0219,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11420,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,433,30b,1.9,3243,0004,0023,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11421,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,433,33,0.7,3243,0004,0023,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11461,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,426,1b,0.6,3230,0004,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11461,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,426,2,0.9,3230,0004,0031,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11461,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,426,3,1.0,3230,0004,0031,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,41,12,0.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,48,"18,22",2.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,55,18,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,55,29,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,59,19a,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,60,22a,3.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,65,"6a,20a,33a,34a",3.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,66,"39,41",2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2978,Panevėžio,Panevėžio rajono kontroliuojama teritorija,valstybinė,Mažeikių miškų urėdija,Naujosios Akmenės girininkija,68,50,1.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11215,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Mažeikių miškų urėdija,Papilės girininkija,91,"35,35b,35c",3.0,3258,0001,0031,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11286,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,946,20a,0.9,6642,0003,0029,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11295,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,945,"2,19",0.3,6642,0004,0070,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11295,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,945,"6,9",2.0,6642,0004,0070,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11321,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,904,27a,0.6,6624,0003,0063,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11446,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,127,26,0.3,6676,0002,0021,Plynas sanitarinis kirtimas (TN),2023-01-01,2023-12-31
+122 - 11446,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,127,7,0.6,6676,0002,0021,Plynas sanitarinis kirtimas (TN),2023-01-01,2023-12-31
+122 - 11446,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Anciškių girininkija,127,7,0.7,6676,0002,0021,Plynas sanitarinis kirtimas (TN),2023-01-01,2023-12-31
 122 - 11311,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,774,2a,2.3,6629,0002,0045,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11358,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,854,8a,1.7,6601,0004,0094,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11359,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,854,5b,0.4,6601,0004,0094,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 11359,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,854,6a,0.1,6601,0004,0094,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11478,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Krekenavos girininkija,854,"5a,6b,7a",1.3,6601,0004,0094,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11125,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,102,28,1.2,6685,0004,0050,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11487,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,77,1,2.4,6608,0001,0006,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11487,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,77,3,0.0,6608,0001,0006,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11487,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,77,3,0.6,6608,0001,0006,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11494,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,91,"12a,35",0.7,6608,0003,0076,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11494,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,91,"23a,34a",1.3,6608,0003,0076,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11494,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Naujamiesčio girininkija,91,25a,0.7,6608,0003,0076,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11213,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Paežerio girininkija,451,2,0.6,6626,0001,0062,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11213,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Paežerio girininkija,451,"3,5",1.0,6626,0001,0062,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11213,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Panevėžio miškų urėdija,Paežerio girininkija,451,"3,5",1.1,6626,0001,0062,Plynas kirtimas,2023-01-01,2023-12-31
@@ -279,18 +696,55 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11119,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Tytuvėnų miškų urėdija,Kražių girininkija,646,28,0.7,5458,0001,0124,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11378,Panevėžio,Panevėžio rajono kontroliuojama teritorija,privati,Tytuvėnų miškų urėdija,Kražių girininkija,7,"27,29,31",0.5,5428,0001,0187,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11333,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1255,"313a,314a,315a",1.0,3428,0003,0117,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11401,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1336,37a,1.1,3472,0002,0111,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11485,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1249,8,0.4,3476,0004,0090,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+122 - 11550,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1255,21a,0.3,3428,0003,0083,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11550,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1255,37a,0.7,3428,0003,0083,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11550,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1255,38a,0.2,3428,0003,0083,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11550,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Kavarsko girininkija,1255,39a,0.1,3428,0003,0083,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,447,"5a,15",2.0,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,448,"1a,3a",1.6,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,448,8,0.6,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,450,11a,1.2,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,450,"11b,16",0.5,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,452,"19,21",1.9,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,525,11,1.2,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,525,20,1.5,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,534,"12,14a",2.7,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,537,2,0.5,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,547,"2b,8a,11a",3.4,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
+222 - 2972,Utenos,Anykščių rajono kontroliuojama teritorija,valstybinė,Anykščių miškų urėdija,Kavarsko girininkija,547,"2c,4",0.9,0,0,0,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11208,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,1141,47a,1.6,3484,0002,0007,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11208,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,1141,"50a,73a",0.9,3484,0002,0007,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11208,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,1141,50b,0.4,3484,0002,0007,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11208,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,1141,73b,0.3,3484,0002,0007,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11515,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,42,0.6,3462,0001,0196,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11515,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,44,0.5,3462,0001,0196,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11515,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,474,41a,0.6,3462,0001,0196,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11516,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,33,0.1,3462,0001,0196,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11516,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,41b,0.3,3462,0001,0196,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11516,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,45,0.6,3462,0001,0196,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11516,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,474,7b,0.1,3462,0001,0196,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11517,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,467,42,0.1,3462,0001,0196,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11517,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,35,0.3,3462,0001,0196,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11517,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,46,0.4,3462,0001,0196,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11518,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Mikierių girininkija,468,"47,49a",0.5,3462,0001,0196,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11004,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1484,"1a,1b,2a,2b",0.9,3426,0005,0080,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11022,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1516,"6a,7a,15a,15b",1.2,3416,0005,0012,Plynas kirtimas,2023-01-02,2023-12-31
 122 - 11227,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1505,"7a,7b",1.3,3426,0002,0305,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11227,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Pavarių girininkija,1505,8a,0.2,3426,0002,0305,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11531,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1208,7a,0.5,3470,0005,0552,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11531,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1208,7b,0.1,3470,0005,0552,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11586,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1208,7a,0.5,3470,0005,0552,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11586,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Svėdasų girininkija,1208,7b,0.1,3470,0005,0552,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11011,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1101,52a,0.2,3448,0002,0044,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 11011,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1101,54a,0.2,3448,0002,0044,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11210,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1104,"5a,5b",1.6,3448,0002,0044,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11210,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1105,"54b,56",1.3,3448,0002,0044,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11468,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1098,365a,0.9,3448,0002,0160,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11491,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,395,13a,1.1,3410,0001,0217,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11583,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1127,"10a,6,8",2.9,3410,0004,0001,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11583,Utenos,Anykščių rajono kontroliuojama teritorija,privati,Anykščių miškų urėdija,Troškūnų girininkija,1127,5a,0.2,3410,0004,0001,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11013,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Daugėliškio girininkija,2502,"22,24,25",2.2,4544,0007,0158,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11014,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Daugėliškio girininkija,2503,"5,5a,5b",1.2,4544,0007,0159,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11059,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Daugėliškio girininkija,2476,28,0.4,4542,0002,0002,Plynas kirtimas,2023-01-01,2023-12-31
@@ -303,11 +757,20 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11105,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Kaltanėnų girininkija,900,13c,3.8,4505,0009,0087,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11101,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Minčiagirės girininkija,308,"14a,16a",1.1,4564,0004,0131,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11102,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Minčiagirės girininkija,308,3a,3.9,4564,0004,0127,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11575,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Tverečiaus girininkija,2661,39,0.5,4527,0003,0058,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11575,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Tverečiaus girininkija,2661,42,0.8,4527,0003,0058,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10928,Utenos,Ignalinos rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Vaišniūnų girininkija,784,27,1.2,4557,0002,0052,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11573,Utenos,Kupiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,397,52a,0.4,7390,0004,0187,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11573,Utenos,Kupiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,397,54a,0.4,7390,0004,0187,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11316,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Žeimenos girininkija,1150,23,0.4,6204,0002,0281,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11316,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Žeimenos girininkija,1150,29b,0.1,6204,0002,0281,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11319,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Žeimenos girininkija,22,"23,24a",0.8,6204,0002,0281,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11319,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Žeimenos girininkija,22,"25a,26a",0.3,6204,0002,0281,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11426,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,856,"34,36,39,40,38",1.7,6227,0002,0211,Plynas kirtimas,2023-12-19,2024-12-31
+122 - 11572,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Dubingių girininkija,1100,2,1.1,6230,0004,0296,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11572,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Dubingių girininkija,1100,"28D,33",1.3,6230,0004,0296,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11572,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Dubingių girininkija,1100,"29,7",2.7,6230,0004,0296,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11576,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Dubingių girininkija,1100,"28a,30,42b,42c",3.1,6230,0004,0296,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10982,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,709,21,1.0,6274,0002,0188,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 10982,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,709,35a,0.3,6274,0002,0188,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 10982,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,709,36,0.6,6274,0002,0188,Atrankinis kirtimas,2023-01-01,2023-12-31
@@ -318,7 +781,9 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 10986,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,709,"30,31,32",1.5,6274,0002,0188,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11320,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,311,27a,0.7,6250,0001,0086,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11320,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,311,5a,0.7,6250,0001,0086,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11480,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,841,23,0.2,6260,0002,0037,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
 122 - 11326,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Videniškių girininkija,346,337c,0.1,6244,0003,0055,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11400,Utenos,Molėtų rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Videniškių girininkija,347,"8a,8b",0.7,6244,0003,0055,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11176,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,650,12b,0.7,7337,0004,0026,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11176,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,650,6,1.1,7337,0004,0026,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11179,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,650,11b,0.3,7337,0004,0026,Plynas kirtimas,2023-01-01,2023-12-31
@@ -326,6 +791,11 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11180,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,650,12a,0.8,7337,0004,0026,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11180,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,650,17a,0.2,7337,0004,0026,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11199,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,650,20,0.2,7337,0004,0026,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11585,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,249,1b,0.1,7330,0010,0261,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11585,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,249,26b,0.8,7330,0010,0261,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11585,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,249,27c,0.1,7330,0010,0261,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11585,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,249,"30,31",1.5,7330,0010,0261,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11585,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Kamajų girininkija,249,"3b,11",0.5,7330,0010,0261,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11193,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Obelių girininkija,122,"13,13a",0.8,7325,0002,0001,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11193,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Obelių girininkija,122,16,1.5,7325,0002,0001,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11195,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Obelių girininkija,122,14,1.2,7325,0002,0001,Atvejinis kirtimas,2023-01-01,2023-12-31
@@ -343,12 +813,45 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11379,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,316,"3a,4a,4b",1.8,7307,0004,0203,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11383,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,291,"28b,29,30,31b,49,50",2.9,7370,0004,0020,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11383,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,291,31a,0.9,7370,0004,0020,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11469,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,187,308-313,2.2,7340,0001,0072,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11469,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Pandėlio girininkija,187,"310b,312",0.9,7340,0001,0072,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11168,Utenos,Rokiškio rajono kontroliuojama teritorija,privati,Rokiškio miškų urėdija,Rokiškio girininkija,381,45,1.7,7357,0005,0096,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11543,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Balčių girininkija,421,4,0.4,8227,0003,0086,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11543,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Balčių girininkija,421,5,2.6,8227,0003,0086,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11545,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Balčių girininkija,353,"19a,27a",1.8,8264,0002,0127,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11545,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Balčių girininkija,353,28a,0.9,8264,0002,0127,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11546,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Balčių girininkija,353,35,0.9,8264,0002,0127,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11546,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Balčių girininkija,353,"46,46a",3.0,8264,0002,0127,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11064,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,780,31a,1.4,8257,0001,0228,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 11064,Utenos,Utenos rajono kontroliuojama teritorija,privati,Utenos miškų urėdija,Kuktiškių girininkija,780,31b,0.2,8257,0001,0228,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11079,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Antazavės girininkija,398,"90a,91b",0.9,4340,0001,0195,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11080,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Antazavės girininkija,398,95a,0.4,4340,0001,0195,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11080,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Antazavės girininkija,398,95b,0.3,4340,0001,0195,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11462,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Antazavės girininkija,233,15,0.6,4304,0003,0231,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11490,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Antazavės girininkija,10,308,0.5,4350,0003,0006,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,11,30,1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,11,6,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,12,9,1.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,16,10,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,18,"37,38",1.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,19,"3,4",0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,19,9,1.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2970,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Antazavės girininkija,9,12,2.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2967,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Gražutės girininkija,162,14,1.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2967,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Gražutės girininkija,162,22,1.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2967,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Gražutės girininkija,163,27,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2967,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Gražutės girininkija,166,2,2.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2967,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Gražutės girininkija,170,"3,4,11",2.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,158,1,0.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,158,10,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,158,9,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,165,7,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,168,2,1.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,175,15,2.6,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,175,20,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,190,"20,29",1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,80,"12,18",1.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2969,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Salako girininkija,86,"3,4,6",2.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11136,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Smalvų girininkija,747,46,0.5,4367,0005,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11136,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Smalvų girininkija,748,31,0.2,4367,0005,0034,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11161,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Smalvų girininkija,14,327a,0.3,4334,0002,0031,Plynas kirtimas,2023-01-01,2023-12-31
@@ -359,33 +862,127 @@ Leidimo serija ir nr.,Regionas,Rajonas,Nuosavybės forma,Urėdija,Girininkija,Kv
 122 - 11172,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Smalvų girininkija,13,310,0.4,4334,0002,0031,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 11174,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Smalvų girininkija,13,"307a,307c,314a,314b,315",2.9,4334,0002,0031,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11177,Utenos,Zarasų rajono kontroliuojama teritorija,privati,Zarasų miškų urėdija,Smalvų girininkija,13,"316c,317a",0.7,4334,0002,0031,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,1,12,1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,14,3,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,17,10,0.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,17,5,1.6,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,28,"10,11,26,28",3.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,67,"13,14,15,17,19",2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,820,9,1.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2968,Utenos,Zarasų rajono kontroliuojama teritorija,valstybinė,Zarasų miškų urėdija,Smalvų girininkija,821,"4,5",0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10970,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,415,11,1.1,8687,0001,0430,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11290,Vilniaus,Švenčionių rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,512,44,1.0,8670,0003,0014,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 10198,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Aukštadvario girininkija,597,15,0.9,7907,0002,0266,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 10199,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Onuškio girininkija,688,377,0.9,7950,0003,0686,Plynas kirtimas,2023-12-23,2024-12-31
+122 - 11584,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Onuškio girininkija,618,315,0.1,7950,0002,0633,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11584,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Onuškio girininkija,618,"322,461",1.0,7950,0002,0633,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,117,"1,5",1.7,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,117,"15,19",3.0,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,132,2,2.5,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,133,21,1.8,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,133,22,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,134,13,1.9,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,135,11,0.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,146,1,2.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,150,2,1.8,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,159,8,0.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2958,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,698,13,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,108,"19,24",1.2,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,56,25,0.7,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,56,4,0.3,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,57,"1,2",2.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,58,6,2.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,73,19,1.1,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,77,21,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,78,"1,2",2.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,93,"13,20",2.4,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,93,5,0.2,0,0,0,Plynas kirtimas,2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,96,"14,15",2.9,0,0,0,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+222 - 2959,Vilniaus,Trakų rajono kontroliuojama teritorija,valstybinė,Trakų miškų urėdija,Onuškio girininkija,96,"7,8",1.8,0,0,0,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11132,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Rūdiškių girininkija,3,21,0.1,7938,0003,0010,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11556,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Rūdiškių girininkija,157,1,1.6,7938,0011,0226,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11557,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Rūdiškių girininkija,156,"12,8b,14a",2.5,7938,0011,0309,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11557,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Rūdiškių girininkija,156,15,0.5,7938,0011,0309,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11560,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Rūdiškių girininkija,156,14b,0.2,7938,0011,0114,Atrankinis kirtimas,2023-01-01,2023-12-31
 122 - 10961,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Žeronių girininkija,91,4,1.1,7938,0004,0347,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10961,Vilniaus,Trakų rajono kontroliuojama teritorija,privati,Trakų miškų urėdija,Žeronių girininkija,91,8,0.6,7938,0004,0347,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11434,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Kaltanėnų girininkija,2824,"1,4",1.7,8617,0001,0668,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11434,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Kaltanėnų girininkija,2824,11,0.3,8617,0001,0668,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11434,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Kaltanėnų girininkija,2824,11,0.4,8617,0001,0668,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11439,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Kaltanėnų girininkija,2824,20,0.2,8617,0001,0668,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11439,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ignalinos miškų urėdija,Kaltanėnų girininkija,2824,9,0.6,8617,0001,0668,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11562,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Arvydų girininkija,525,1,0.7,4101,0400,0120,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11562,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Arvydų girininkija,525,1,1.0,4101,0400,0120,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11562,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Arvydų girininkija,525,4c,0.4,4101,0400,0120,Atvejinis kirtimas,2023-01-01,2023-12-31
 122 - 11160,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Magūnų girininkija,906,24,0.9,8634,0003,0072,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11162,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Magūnų girininkija,220,328,0.4,8634,0003,0073,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11162,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Magūnų girininkija,906,14,0.3,8634,0003,0073,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11431,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Magūnų girininkija,896,"35,36",1.0,8654,0002,0083,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11143,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Meros girininkija,19,19,1.6,8650,0007,0054,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11403,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Meros girininkija,49,"22a,22b,22c,22d,22e,27a,7a",3.0,8650,0006,0057,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11084,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Nemenčinės girininkija,6,10,2.4,4172,0400,0056,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11483,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Nemenčinės girininkija,823,"11a,11b,14a",1.0,4120,0300,0081,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11483,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Nemenčinės girininkija,832,"10b,7",0.7,4120,0300,0081,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11484,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Nemenčinės girininkija,823,"6b,10a,10b",1.6,4120,0300,0081,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11577,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Nemenčinės girininkija,832,"14c,7,8",0.7,4120,0300,0081,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11049,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Sužionių girininkija,717,"10,20",0.9,4196,0300,0197,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11226,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Sužionių girininkija,759,6,1.0,4196,0400,0053,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11486,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Nemenčinės miškų urėdija,Sužionių girininkija,14,"10,9c",1.6,4196,0400,0320,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11163,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Jašiūnų girininkija,30,1,0.3,8520,0005,0089,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
 122 - 11163,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Jašiūnų girininkija,30,1,1.5,8520,0005,0089,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11163,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Jašiūnų girininkija,30,2,1.3,8520,0005,0089,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11414,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Šalčininkėlių girininkija,516,14,0.8,8501,0005,0033,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11414,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Šalčininkėlių girininkija,516,7,0.6,8501,0005,0033,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11414,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Šalčininkėlių girininkija,516,9b,1.4,8501,0005,0033,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11191,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,132,15,1.1,8515,0005,0081,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11569,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,79,11a,0.3,8504,0006,0100,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11569,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,79,11b,0.2,8504,0006,0100,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11569,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,79,12,0.4,8504,0006,0100,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11569,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,79,"6,6b,9b",2.6,8504,0006,0100,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11579,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,5,13,1.6,8515,0005,0023,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11580,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Šalčininkų miškų urėdija,Visinčios girininkija,79,"1a,2a,4a",2.3,8504,0006,0102,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11404,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Gelednės girininkija,520,40a,2.0,8670,0001,0052,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11404,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Gelednės girininkija,520,50a,0.4,8670,0001,0052,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11448,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Gelednės girininkija,522,14c,0.3,8670,0001,0233,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11448,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Gelednės girininkija,522,"14d,18b",0.3,8670,0001,0233,Plynas sanitarinis kirtimas (PN),2023-01-01,2023-12-31
+122 - 11453,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Gelednės girininkija,520,53,0.1,8670,0001,0052,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11453,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Gelednės girininkija,520,63,1.3,8670,0001,0052,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11442,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,489,"27b,27c",0.4,8610,0004,0139,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11442,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,489,"27f,27g,27h",1.5,8610,0004,0139,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11443,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,489,27,0.1,8610,0004,0139,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 11445,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,507,32,0.6,8670,0003,0007,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11445,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,507,41,0.8,8670,0003,0007,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11447,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Švenčionių girininkija,510,38,0.3,8670,0001,0418,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10958,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,313,12d,0.3,8624,0003,0414,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10959,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,313,10c,0.1,8624,0003,0414,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 10959,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,313,9d,0.9,8624,0003,0414,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11450,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,321,65b,0.2,8624,0006,0449,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11452,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,308,"25,31a",3.0,8624,0003,0455,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11457,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,321,1c,0.6,8624,0006,0451,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11457,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,321,"4a,4c",0.6,8624,0006,0451,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11458,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,318,46,0.2,8624,0005,0466,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11458,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,318,48,0.9,8624,0005,0466,Atvejinių kirtimų (paskutinis atvejis),2023-01-01,2023-12-31
+122 - 11458,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Švenčionėlių miškų urėdija,Žeimenos girininkija,318,49b,2.7,8624,0005,0466,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11470,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Čiobiškio girininkija,55,307,0.1,8910,0003,0198,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11470,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Čiobiškio girininkija,781,"29,30a",2.4,8910,0003,0198,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11472,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Čiobiškio girininkija,781,29,2.5,8910,0003,0199,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11270,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,726,"312a,314a",2.3,8922,0002,0043,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11271,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,726,"323a,324a,325a",2.1,8922,0002,0043,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11272,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,726,"322a,321a,322b",1.6,8922,0002,0043,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11274,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,726,"326a,329a",1.4,8922,0002,0043,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11275,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Giedraičių girininkija,726,309a,0.7,8922,0002,0043,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11565,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Šešuolėlių girininkija,820,3,0.4,8940,0006,0042,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11565,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Šešuolėlių girininkija,820,9,0.8,8940,0006,0042,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 5562,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Šešuolėlių girininkija,712,5,0.2,8932,0003,0123,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 719,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Ukmergės miškų urėdija,Žaliosios girininkija,942,24,0.8,8905,0003,0402,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11233,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Valkininkų miškų urėdija,Eišiškių girininkija,1102,28,0.6,8517,0001,0043,Atvejinis kirtimas,2023-01-01,2023-12-31
+122 - 10208,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Dūkštų girininkija,456,37,0.4,4124,0400,0931,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11031,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Dūkštų girininkija,66,"6,7b",0.7,4130,0200,0207,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11031,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Dūkštų girininkija,66,9a,0.9,4130,0200,0207,Atrankinis kirtimas,2023-01-01,2023-12-31
+122 - 11567,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Dūkštų girininkija,463,2,1.8,4184,0500,0692,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11567,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Dūkštų girininkija,463,6,1.0,4184,0500,0692,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 6599,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Dūkštų girininkija,223,"335,338",0.4,4110,0500,0016,Miško lydimo kirtimas (TN),2023-01-01,2023-12-31
+122 - 11570,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Mickūnų girininkija,512,47a,0.3,4144,0400,0029,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11564,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Migūnų girininkija,103,3,1.1,4162,0300,1390,Plynas kirtimas,2023-01-01,2023-12-31
+122 - 11566,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Migūnų girininkija,104,"10,11",1.3,4162,0300,1391,Plynas kirtimas,2023-01-01,2023-12-31
 122 - 11244,Vilniaus,Vilniaus rajono kontroliuojama teritorija,privati,Vilniaus miškų urėdija,Taurų girininkija,523,"30,34,39,39a",2.8,4157,0100,0114,Plynas kirtimas,2023-01-01,2023-12-31
