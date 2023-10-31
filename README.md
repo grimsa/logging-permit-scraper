@@ -10,7 +10,8 @@ Sukurtas automatinis įrankis periodiškai pereina per visus kirtimų leidimų p
 Tai yra laikina priemonė, padedanti spręsti minėtą problemą iki kirtimų leidimų duomenų rinkinys taps atvirais duomenimis.
 
 ### Duomenys
-Naujausi duomenys talpinami [šiame kataloge](https://github.com/grimsa/logging-permit-scraper/blob/main/data/).
+Naujausi duomenys (nuo 2023 metų) talpinami [šiame kataloge](https://github.com/grimsa/logging-permit-scraper/blob/main/data/).
+Duomenys iki 2023 metų talpinami [čia](https://github.com/grimsa/logging-permit-scraper/blob/main/data_pre-2023/).
 Kartu talpinama informacija apie duomenų atnaujinimo laiką.
 
 ### Palaikymas
