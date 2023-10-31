@@ -18,45 +18,49 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class LoggingPermitsPage {
-    private Map<String, String> cookies = Map.of();
+    private final Map<String, String> cookies;
     private final Document rootPage;
 
     public LoggingPermitsPage() throws IOException {
         Connection.Response response = decorateConnection(Jsoup.connect("https://kirtleidimai.amvmt.lt/")).execute();
-        this.cookies = response.cookies();
         this.rootPage = response.parse();
+        this.cookies = response.cookies();
+    }
+
+    /**
+     * Used for testing only
+     */
+    LoggingPermitsPage(Document rootPage) {
+        this.rootPage = rootPage;
+        this.cookies = Map.of();
     }
 
     private Connection decorateConnection(Connection connection) {
         return new LoggingConnectionDecorator(connection)
-                .cookies(cookies);
+                .cookies(Map.of());
     }
 
-    public List<String> getRegionOptions() {
-        return List.of(
-                "Alytaus TP",
-                "Kauno TP",
-                "Klaipėdos TP",
-                "Marijampolės TP",
-                "Miškų kontrolės skyrius",
-                "Panevėžio TP",
-                "Šiaulių TP",
-                "Utenos TP",
-                "Vilniaus TP"
-        );
+    public List<String> getRegionalUnitOptions() {
+        return rootPage.getElementById(SearchForm.REGION_SELECT_ID).children().stream()
+                .map(option -> option.attr("value"))
+                .toList();
     }
 
     public List<LoggingPermit> retrieveLoggingPermits(String region, boolean thisYearOnly) {
         SearchResultsPage firstPage = new SearchResultsPage(new SearchForm(rootPage, region, thisYearOnly, cookies));
-        return Stream.iterate(Optional.of(firstPage), Optional::isPresent, (Optional<SearchResultsPage> resultsPage) -> resultsPage.flatMap(SearchResultsPage::nextPage))
+        return Stream.iterate(
+                        Optional.of(firstPage),
+                        Optional::isPresent,
+                        (Optional<SearchResultsPage> resultsPage) -> resultsPage.flatMap(SearchResultsPage::nextPage)
+                )
                 .map(Optional::get)
                 .map(SearchResultsPage::loggingPermits)
                 .flatMap(List::stream)
-                .collect(Collectors.toList());
+                .toList();
     }
 
     private static class SearchForm {
-        private static final String REGION_SELECT_ID = "DropDownList1";
+        private static final String REGION_SELECT_ID = "DropDownList3";
         private final FormElement form;
         private final String region;
         private final boolean thisYearOnly;
@@ -90,16 +94,26 @@ public class LoggingPermitsPage {
                 }
                 Connection connection = new LoggingConnectionDecorator(form.submit())
                         .cookies(cookies);
-                connection.data("metai").value(yearRadioButtonId());
-                connection.data(REGION_SELECT_ID).value(region);
+                setDataParameter(connection, "cbRegioninisPadalinys", "on");
+                setDataParameter(connection, "rbReforma", "nauja");
+                setDataParameter(connection, "metai", yearRadioButtonId());
+                setDataParameter(connection, REGION_SELECT_ID, region);
                 if (pageNumber != null) {
-                    connection.data("__EVENTTARGET").value("GridView2");
-                    connection.data("__EVENTARGUMENT").value("Page$" + pageNumber);
+                    setDataParameter(connection, "__EVENTTARGET", "GridView2");
+                    setDataParameter(connection, "__EVENTARGUMENT", "Page$" + pageNumber);
                 }
                 return validResponse(connection.execute().parse());
             } catch (IOException e) {
                 throw new UncheckedIOException(e);
             }
+        }
+
+        private void setDataParameter(Connection connection, String key, String value) {
+            Optional.ofNullable(connection.data(key))
+                    .ifPresentOrElse(
+                            existingKeyValue -> existingKeyValue.value(value),
+                            () -> connection.data(key, value)
+                    );
         }
 
         private Document validResponse(Document response) {
@@ -142,7 +156,7 @@ public class LoggingPermitsPage {
         }
 
         Optional<SearchResultsPage> nextPage() {
-            if (!pagingInfo.nextPageNumber().isPresent()) {
+            if (pagingInfo.nextPageNumber().isEmpty()) {
                 return Optional.empty();
             }
             return Optional.of(

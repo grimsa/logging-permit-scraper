@@ -28,20 +28,20 @@ import static java.time.Month.JANUARY;
 
 public class Scraper {
     private static final Logger log = LoggerFactory.getLogger(Scraper.class);
-    private static final Collator collator = Collator.getInstance(new Locale("lt", "LT"));
+    private static final Collator collator = Collator.getInstance(Locale.of("lt", "LT"));
     private static final String README_FILE_NAME = "data/README.md";
 
     public static void main(String... args) throws IOException {
         boolean thisYearOnly = !EnumSet.of(JANUARY, DECEMBER).contains(LocalDate.now().getMonth());
         LoggingPermitsPage page = new LoggingPermitsPage();
-        List<LoggingPermit> allPermits = page.getRegionOptions().stream()
-                .map(region -> {
-                    List<LoggingPermit> permitsForRegion = page.retrieveLoggingPermits(region, thisYearOnly);
-                    log.info("Found {} permits for region {}", permitsForRegion.size(), region);
-                    return permitsForRegion;
+        List<LoggingPermit> allPermits = page.getRegionalUnitOptions().stream()
+                .map(regionalUnit -> {
+                    List<LoggingPermit> permitsForRegionalUnit = page.retrieveLoggingPermits(regionalUnit, thisYearOnly);
+                    log.info("Found {} permits for regional unit {}", permitsForRegionalUnit.size(), regionalUnit);
+                    return permitsForRegionalUnit;
                 })
                 .flatMap(List::stream)
-                .collect(Collectors.toList());
+                .toList();
         log.info("Retrieved results: " + allPermits.size());
 
         Map<String, List<LoggingPermit>> permitsByFilename = allPermits.stream()
@@ -56,9 +56,9 @@ public class Scraper {
             try (CSVPrinter printer = new CSVPrinter(out, csvFormat)) {
                 allPermits.stream()
                         .sorted(
-                                Comparator.comparing((LoggingPermit loggingPermit) -> loggingPermit.getColumnValue("Regionas"), collator)
+                                Comparator.comparing((LoggingPermit loggingPermit) -> loggingPermit.getColumnValue("Regioninis padalinys"), collator)
+                                        .thenComparing(record -> record.getColumnValue("Regionas"), collator)
                                         .thenComparing(record -> record.getColumnValue("Rajonas"), collator)
-                                        .thenComparing(record -> record.getColumnValue("Urėdija"), collator)
                                         .thenComparing(record -> record.getColumnValue("Girininkija"), collator)
                                         .thenComparing(record -> record.getColumnValue("Leidimo serija ir nr."))
                                         .thenComparing(record -> record.getColumnValue("Kvartalas"))

@@ -5,14 +5,13 @@ import org.jsoup.nodes.Document;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class LoggingPermitSearchResultsTableTest {
     @Test
     void parse_alytaus1_expectedEntries() {
-        Document page = new LocalDocumentSource("pages/Alytaus-01.html").get();
+        Document page = new LocalDocumentSource("pages/2022-Alytaus-01.html").get();
 
         List<LoggingPermit> results = new LoggingPermitSearchResultsTable(page).parse();
 
@@ -29,7 +28,7 @@ class LoggingPermitSearchResultsTableTest {
 
     @Test
     void parse_alytaus2_expectedEntries() {
-        Document page = new LocalDocumentSource("pages/Alytaus-02.html").get();
+        Document page = new LocalDocumentSource("pages/2022-Alytaus-02.html").get();
 
         List<LoggingPermit> results = new LoggingPermitSearchResultsTable(page).parse();
 
@@ -46,11 +45,28 @@ class LoggingPermitSearchResultsTableTest {
 
     @Test
     void parse_lastPage() {
-        Document page = new LocalDocumentSource("pages/Utenos-97.html").get();
+        Document page = new LocalDocumentSource("pages/2022-Utenos-97.html").get();
         LoggingPermitSearchResultsTable table = new LoggingPermitSearchResultsTable(page);
 
         List<LoggingPermit> results = table.parse();
 
         assertEquals(17, results.size());
+    }
+
+    @Test
+    void parse_anyksciu1_expectedEntries() {
+        Document page = new LocalDocumentSource("pages/2023-AnyksciuRP-01.html").get();
+
+        List<LoggingPermit> results = new LoggingPermitSearchResultsTable(page).parse();
+
+        assertEquals(50, results.size());
+        List<String> lines = results.stream()
+                .map(LoggingPermit::columnValues)
+                .map(columnValues -> String.join(" | ", columnValues))
+                .toList();
+        assertEquals(
+                "12300001 | Utenos | Anykščių rajono kontroliuojama teritorija | privati | Anykščių RP | Mickūnų girininkija | 1477 | 20 | 0.7 | 3426 | 0005 | 0020 | Plynas kirtimas | 2023-01-02 | 2023-12-31",
+                lines.get(0)
+        );
     }
 }

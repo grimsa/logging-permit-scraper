@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 class PagingInfoTest {
     @Test
     void pagingInfo_secondToLastPage() {
-        Document page = new LocalDocumentSource("pages/Utenos-96.html").get();
+        Document page = new LocalDocumentSource("pages/2022-Utenos-96.html").get();
         PagingInfo pagingInfo = new PagingInfo(page);
 
         assertEquals(97, pagingInfo.totalPages());
@@ -21,7 +21,7 @@ class PagingInfoTest {
 
     @Test
     void pagingInfo_lastPage() {
-        Document page = new LocalDocumentSource("pages/Utenos-97.html").get();
+        Document page = new LocalDocumentSource("pages/2022-Utenos-97.html").get();
         PagingInfo pagingInfo = new PagingInfo(page);
 
         assertEquals(97, pagingInfo.totalPages());

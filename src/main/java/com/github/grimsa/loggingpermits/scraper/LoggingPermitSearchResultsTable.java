@@ -12,7 +12,6 @@ import java.time.format.DateTimeParseException;
 import java.util.List;
 import java.util.Objects;
 import java.util.Set;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import static java.util.function.Predicate.not;
@@ -32,8 +31,8 @@ class LoggingPermitSearchResultsTable {
                 .map(tr -> tr.select(":root > td"))
                 .filter(not(List::isEmpty))
                 .filter(tds -> tds.size() > 1)
-                .map(HtmlLoggingPermitRow::new)
-                .collect(Collectors.toList());
+                .<LoggingPermit>map(HtmlLoggingPermitRow::new)
+                .toList();
     }
 
     private static class HtmlLoggingPermitRow implements LoggingPermit {
@@ -43,7 +42,7 @@ class LoggingPermitSearchResultsTable {
                 "Regionas",
                 "Rajonas",
                 "Nuosavybės forma",
-                "Urėdija",
+                "Regioninis padalinys",
                 "Girininkija",
                 "Kvartalas",
                 "Sklypai",
@@ -60,7 +59,7 @@ class LoggingPermitSearchResultsTable {
         HtmlLoggingPermitRow(Elements tds) {
             this.columnValues = tds.stream()
                     .map(Element::text)
-                    .collect(Collectors.toList());
+                    .toList();
         }
 
         @Override
@@ -72,7 +71,7 @@ class LoggingPermitSearchResultsTable {
         public List<String> columnValues() {
             return IntStream.range(0, COLUMN_NAMES.size())
                     .mapToObj(index -> transformColumnValue(COLUMN_NAMES.get(index), columnValues.get(index)))
-                    .collect(Collectors.toList());
+                    .toList();
         }
 
         @Override
