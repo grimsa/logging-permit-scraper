@@ -5,9 +5,11 @@ Dėl to kiekvieną kartą prieš analizuojant šiuos duomenis reikalingas nemaž
 ### Siekiamybė
 Ilgoje perspektyvoje geriausias sprendimas būtų kirtimų leidimų duomenis publikuoti Lietuvos atvirų duomenų portale (https://data.gov.lt/). Tai yra kirtimų leidimų IS vystančios institucijos planuose.
 
-### Laikinas sprendimas
+**Papdildymas:** dalis kirtimų leidimų duomenų jau publikuojami Lietuvos atvirų duomenų portale: https://data.gov.lt/datasets/2121/
+
+### Šis įrankis
 Sukurtas automatinis įrankis periodiškai pereina per visus kirtimų leidimų paieškos rezultatų puslapius ir surenka visus rezultatus į CSV failus (skirstoma pagal leidimo galiojimo pradžios metus).
-Tai yra laikina priemonė, padedanti spręsti minėtą problemą iki kirtimų leidimų duomenų rinkinys taps atvirais duomenimis.
+Tai yra laikina priemonė, padedanti spręsti minėtą problemą iki visi kirtimų leidimų duomenų rinkinys taps atvirais duomenimis.
 
 ### Duomenys
 Naujausi duomenys (nuo 2023 metų) talpinami [šiame kataloge](https://github.com/grimsa/logging-permit-scraper/blob/main/data/).
