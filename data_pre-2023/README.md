@@ -11,4 +11,4 @@
 | 2025 | 2 |
 | kiti | 3 |
 
-**Duomenys atnaujinti:** 2023-01-08T08:45:03.843969162Z
+**Duomenys atnaujinti:** 2023-01-08T08:45:03Z

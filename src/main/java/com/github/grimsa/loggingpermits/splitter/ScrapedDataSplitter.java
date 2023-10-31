@@ -15,6 +15,7 @@ import java.nio.charset.StandardCharsets;
 import java.text.Collator;
 import java.time.Instant;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Locale;
@@ -75,7 +76,7 @@ public class ScrapedDataSplitter {
                     """);
             Failable.stream(permitsByYear.keySet().stream().sorted())
                     .forEach(year -> out.write("| " + year + " | " + permitsByYear.get(year).size() + " |\n"));
-            out.write("**Duomenys atnaujinti:** " + Instant.now());
+            out.write("**Duomenys atnaujinti:** " + DateTimeFormatter.ISO_DATE_TIME.format(Instant.now()));
         }
     }
 }
