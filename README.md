@@ -1,3 +1,15 @@
+### ⚠ Šis projektas nebeaktualus ⚠
+
+Naujausius kirtimų leidimų duomenis galite rasti:
+* Kirtimų leidimų informacinėje sistemoje (https://kirtleidimai.amvmt.lt/) - čia 2023 m. gruodį atsirado patogesnės filtravimo bei eksporto XLSX formatu galimybės
+* Lietuvos atvirų duomenų portale (https://data.gov.lt/datasets/2121/) - čia 2023 m. gruodį duomenys dar nepilni, ir atnaujinami rečiau, tačiau iš čia juos gali būti patogiau apdoroti mašininiu būdu. Susiję registruoti poreikiai:
+   * https://data.gov.lt/requests/133/
+   * https://data.gov.lt/requests/14327/
+
+➡ Ankstesnį projekto aprašymą rasite žemiau.
+
+----
+
 ### Problema
 Kirtimų leidimų informacinėje sistemoje (https://kirtleidimai.amvmt.lt/) duomenys pateikiami puslapiais be galimybės juos eksportuoti kokiu nors strutūrizuotų duomenų formatu.
 Dėl to kiekvieną kartą prieš analizuojant šiuos duomenis reikalingas nemažas rankinis darbas duomenų paruošimui.
